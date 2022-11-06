@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-06T16:25:27.878Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="YO8IHTwfQ4m6Wf5hr6yp" version="20.5.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-11-06T16:27:40.536Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="1nMkng4yQoBomVVVyVY_" version="20.5.1" type="github" pages="3">
   <diagram id="nzs0xeg10_oP0jwHy-yN" name="第 1 页">
     <mxGraphModel dx="865" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -131,11 +131,8 @@
         <mxCell id="0PH0KJfKB1iZZYWfUspq-4" value="2我分享的宝贝" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="90" y="200" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0PH0KJfKB1iZZYWfUspq-6" value="3我的收藏" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="0PH0KJfKB1iZZYWfUspq-6" value="3宝贝出售情况" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="270" y="200" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="0PH0KJfKB1iZZYWfUspq-7" value="4我的购物车" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="540" y="200" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0PH0KJfKB1iZZYWfUspq-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-app-1/16/dot-more-menu-hide-128.png;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="470" y="200" width="40" height="40" as="geometry" />
