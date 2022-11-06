@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-06T17:04:44.899Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="XW4jrJEofjIFRC-RUlNL" version="20.5.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-06T17:05:35.327Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="MCXa7R9w2xKQki7ma2j-" version="20.5.1" type="github" pages="4">
   <diagram id="nzs0xeg10_oP0jwHy-yN" name="第 1 页">
     <mxGraphModel dx="865" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -135,7 +135,7 @@
           <mxGeometry x="40" y="40" width="720" height="430" as="geometry" />
         </mxCell>
         <mxCell id="0PH0KJfKB1iZZYWfUspq-2" value="1个人的一些数据比如：分享的宝贝总数，出售总数，来到园地多少天" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="70" y="70" width="660" height="70" as="geometry" />
+          <mxGeometry x="70" y="100" width="660" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0PH0KJfKB1iZZYWfUspq-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="70" y="160" width="650" height="290" as="geometry" />
@@ -206,6 +206,9 @@
         <mxCell id="MSgJeqKGVWpoSVwxXgpz-19" value="宝贝2&amp;nbsp; &amp;nbsp; &amp;nbsp; 售出与2022年10月8日&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 共出售35件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="90" y="1010" width="580" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="ffiM95cZ-j1KmyhwJeqQ-1" value="宝贝管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="70" y="60" width="110" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -220,7 +223,7 @@
         <mxCell id="kRNffK4xFFs45ZZiNBEN-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="100" y="70" width="640" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kRNffK4xFFs45ZZiNBEN-2" value="个人中心" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="kRNffK4xFFs45ZZiNBEN-2" value="订单管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="100" y="30" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kRNffK4xFFs45ZZiNBEN-3" value="1等待付款" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
