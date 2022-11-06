@@ -1,1 +1,1 @@
-storage UML document.
+storage documents.
