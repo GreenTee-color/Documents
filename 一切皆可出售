@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-06T16:47:44.871Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="LDDpUnrc6rH0YeDLI_dy" version="20.5.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-06T16:53:24.880Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="LuQCpkvOZVmHun2MN2DE" version="20.5.1" type="github" pages="4">
   <diagram id="nzs0xeg10_oP0jwHy-yN" name="第 1 页">
     <mxGraphModel dx="865" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -238,7 +238,7 @@
         <mxCell id="hym1v0_Jcfj6DJd3x1hn-27" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-app-1/16/dot-more-menu-hide-128.png;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="200" y="965" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="hym1v0_Jcfj6DJd3x1hn-28" value="等待付款时间：xx时xx分xx秒" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="hym1v0_Jcfj6DJd3x1hn-28" value="于2022年10月5日签收" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="280" y="870" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hym1v0_Jcfj6DJd3x1hn-31" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/essential-web-5/50/more-dot-tripple-many-detail-128.png;fontSize=16;" vertex="1" parent="1">
@@ -258,6 +258,9 @@
         </mxCell>
         <mxCell id="hym1v0_Jcfj6DJd3x1hn-36" value="立即发货" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="620" y="560" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hym1v0_Jcfj6DJd3x1hn-37" value="去评价" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="520" y="870" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
