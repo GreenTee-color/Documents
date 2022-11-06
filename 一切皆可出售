@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-06T16:31:17.691Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="qSvhmRRZJC_Qvk5kPpO1" version="20.5.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-11-06T16:31:36.288Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Fb34uGgERqMG6e2p0kj1" version="20.5.1" type="github" pages="3">
   <diagram id="nzs0xeg10_oP0jwHy-yN" name="第 1 页">
     <mxGraphModel dx="865" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -70,9 +70,6 @@
         <mxCell id="8Pbzp8lxm5VCTbnBjk5E-22" value="15其他专区" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="39.5" y="560" width="631" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="8Pbzp8lxm5VCTbnBjk5E-25" value="others" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="520" width="130" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="8Pbzp8lxm5VCTbnBjk5E-26" value="2分享你的创意" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="100" width="130" height="20" as="geometry" />
         </mxCell>
@@ -96,6 +93,9 @@
         </mxCell>
         <mxCell id="xrrkHi4jwYDpr3j-Kmvy-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-app-1/16/dot-more-menu-hide-128.png;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="745" y="100" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xrrkHi4jwYDpr3j-Kmvy-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-app-1/16/dot-more-menu-hide-128.png;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="345" y="520" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
