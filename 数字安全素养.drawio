@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-04T15:09:06.357Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="LZZNOVzZCptlNm0UyilC" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-04T15:09:45.068Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="uZi-S_HTlGf5zb6Z9Z6k" version="21.3.7" type="github">
   <diagram name="Page-1" id="10a91c8b-09ff-31b1-d368-03940ed4cc9e">
     <mxGraphModel dx="1235" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -80,7 +80,7 @@
         <mxCell id="FDhGqmkJ39EE4WDYJWKc-9" value="保护敏感信息" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="935" y="340" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FDhGqmkJ39EE4WDYJWKc-10" value="不产生有害信息" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="FDhGqmkJ39EE4WDYJWKc-10" value="不产生且不传递&lt;br&gt;有害信息虚假信息" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="855" y="405" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FDhGqmkJ39EE4WDYJWKc-14" value="权限控制" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
