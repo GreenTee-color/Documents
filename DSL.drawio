@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-15T17:37:33.125Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="gcD7lkW9nAPuMdgpohjS" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-15T17:37:55.174Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="pvio1LL-FpWqhtiFg7ZO" version="21.3.8" type="github">
   <diagram name="第 1 页" id="PbRfWuxGKFb0lXcP3tOV">
     <mxGraphModel dx="1050" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,11 +49,8 @@
             <mxPoint x="440" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5uqvr3K4V6anRMqf3P03-15" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="110" y="360" width="240" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="5uqvr3K4V6anRMqf3P03-3" value="设备" style="verticalAlign=top;align=left;shape=cube;size=10;direction=south;fontStyle=0;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="5uqvr3K4V6anRMqf3P03-15">
-          <mxGeometry width="130" height="140" as="geometry" />
+        <mxCell id="5uqvr3K4V6anRMqf3P03-3" value="设备" style="verticalAlign=top;align=left;shape=cube;size=10;direction=south;fontStyle=0;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="110" y="360" width="130" height="140" as="geometry" />
         </mxCell>
         <mxCell id="5uqvr3K4V6anRMqf3P03-4" value="信息" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="5uqvr3K4V6anRMqf3P03-3">
           <mxGeometry width="100" height="80" relative="1" as="geometry">
