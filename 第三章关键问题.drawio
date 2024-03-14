@@ -1,9 +1,81 @@
-<mxfile host="app.diagrams.net" modified="2024-03-14T08:27:37.423Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="24.0.5" etag="Dg24m2t_VB-BscwZmqHW" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-14T08:49:31.321Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="oala2pXqL3dN-JzD0rEp" version="24.0.5" type="github">
   <diagram name="第 1 页" id="_jJcYhXfENBetBatNS-F">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="LZGVKLNQd8D1ONvB6-fX-15" value="数据目的地" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="200" width="100" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="LZGVKLNQd8D1ONvB6-fX-13" value="数据源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="200" width="100" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="LZGVKLNQd8D1ONvB6-fX-3" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.ssd;" vertex="1" parent="1">
+          <mxGeometry x="570" y="515.5" width="50" height="35.5" as="geometry" />
+        </mxCell>
+        <mxCell id="LZGVKLNQd8D1ONvB6-fX-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ui-essential-17/32/UI_Essential_Outline_1_essential-app-ui-flash_drive-usb-128.png" vertex="1" parent="1">
+          <mxGeometry x="510" y="525.5" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LZGVKLNQd8D1ONvB6-fX-6" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.disk;" vertex="1" parent="1">
+          <mxGeometry x="660" y="508.25" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LZGVKLNQd8D1ONvB6-fX-7" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.ssd;" vertex="1" parent="1">
+          <mxGeometry x="140" y="530" width="50" height="35.5" as="geometry" />
+        </mxCell>
+        <mxCell id="LZGVKLNQd8D1ONvB6-fX-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ui-essential-17/32/UI_Essential_Outline_1_essential-app-ui-flash_drive-usb-128.png" vertex="1" parent="1">
+          <mxGeometry x="230" y="510" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LZGVKLNQd8D1ONvB6-fX-9" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.disk;" vertex="1" parent="1">
+          <mxGeometry x="310" y="515.5" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LZGVKLNQd8D1ONvB6-fX-12" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="100" y="110" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LZGVKLNQd8D1ONvB6-fX-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="LZGVKLNQd8D1ONvB6-fX-12">
+          <mxGeometry width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LZGVKLNQd8D1ONvB6-fX-1" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.application_server2" vertex="1" parent="LZGVKLNQd8D1ONvB6-fX-12">
+          <mxGeometry x="10" y="15" width="43" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LZGVKLNQd8D1ONvB6-fX-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="LZGVKLNQd8D1ONvB6-fX-12" source="LZGVKLNQd8D1ONvB6-fX-2" target="LZGVKLNQd8D1ONvB6-fX-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LZGVKLNQd8D1ONvB6-fX-2" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.database_server" vertex="1" parent="LZGVKLNQd8D1ONvB6-fX-12">
+          <mxGeometry x="80" y="15" width="38" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LZGVKLNQd8D1ONvB6-fX-16" value="数据传输" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="200" width="206" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="LZGVKLNQd8D1ONvB6-fX-18" value="数据源识别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="220" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LZGVKLNQd8D1ONvB6-fX-19" value="数据源管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="272.5" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LZGVKLNQd8D1ONvB6-fX-20" value="数据筛选" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="350" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LZGVKLNQd8D1ONvB6-fX-21" value="数据获取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LZGVKLNQd8D1ONvB6-fX-22" value="目的地管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="220" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LZGVKLNQd8D1ONvB6-fX-23" value="数据保存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="272.5" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LZGVKLNQd8D1ONvB6-fX-24" value="数据管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="350" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LZGVKLNQd8D1ONvB6-fX-26" value="传输方式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="383" y="220" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LZGVKLNQd8D1ONvB6-fX-27" value="传输异常处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="383" y="272.5" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LZGVKLNQd8D1ONvB6-fX-30" value="多元传输策略" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="383" y="350" width="180" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
