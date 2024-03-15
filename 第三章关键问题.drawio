@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-15T22:21:34.626Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="lG5E6uK8pqN2skA96E2u" version="24.0.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-15T22:23:22.618Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="_HNMzUabSRgHGA3LjfPg" version="24.0.6" type="github" pages="2">
   <diagram name="第 1 页" id="_jJcYhXfENBetBatNS-F">
     <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -324,17 +324,23 @@
         <mxCell id="vE8g7DjBLisUFb1u7CSR-30" value="备份任务表接口" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;" vertex="1" parent="vE8g7DjBLisUFb1u7CSR-55">
           <mxGeometry x="104" y="81.1" width="26" height="28.9" as="geometry" />
         </mxCell>
+        <mxCell id="vE8g7DjBLisUFb1u7CSR-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.036;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="vE8g7DjBLisUFb1u7CSR-55" source="vE8g7DjBLisUFb1u7CSR-26" target="vE8g7DjBLisUFb1u7CSR-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vE8g7DjBLisUFb1u7CSR-56" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="297" y="410" width="133" height="140" as="geometry" />
         </mxCell>
         <mxCell id="vE8g7DjBLisUFb1u7CSR-80" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="vE8g7DjBLisUFb1u7CSR-56">
           <mxGeometry x="-10" y="-10" width="130" height="150" as="geometry" />
         </mxCell>
+        <mxCell id="vE8g7DjBLisUFb1u7CSR-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="vE8g7DjBLisUFb1u7CSR-56" source="vE8g7DjBLisUFb1u7CSR-21" target="vE8g7DjBLisUFb1u7CSR-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vE8g7DjBLisUFb1u7CSR-21" value="&lt;span&gt;邮件服务器管理&lt;/span&gt;" style="html=1;whiteSpace=wrap;fontStyle=0" vertex="1" parent="vE8g7DjBLisUFb1u7CSR-56">
           <mxGeometry width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vE8g7DjBLisUFb1u7CSR-33" value="IMAP连接对象" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.services.email_service;" vertex="1" parent="vE8g7DjBLisUFb1u7CSR-56">
-          <mxGeometry x="26" y="71.65000000000003" width="58" height="48" as="geometry" />
+          <mxGeometry x="26" y="69.00000000000003" width="58" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vE8g7DjBLisUFb1u7CSR-57" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;endArrow=openThin;endFill=0;" edge="1" parent="1" source="vE8g7DjBLisUFb1u7CSR-7" target="vE8g7DjBLisUFb1u7CSR-11">
           <mxGeometry relative="1" as="geometry" />
