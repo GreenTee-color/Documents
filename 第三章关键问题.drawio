@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-15T22:38:40.916Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="2QQ30KZfnH-xblKJqwI3" version="24.0.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-15T22:39:02.105Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="-mMNqxOnZ2vu46vFTodS" version="24.0.6" type="github" pages="2">
   <diagram name="第 1 页" id="_jJcYhXfENBetBatNS-F">
     <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -250,7 +250,7 @@
           <mxGeometry x="49.22727272727272" y="12.5" width="88.6090909090909" height="35" as="geometry" />
         </mxCell>
         <mxCell id="vE8g7DjBLisUFb1u7CSR-39" value="逻辑设备对象2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="vE8g7DjBLisUFb1u7CSR-42">
-          <mxGeometry x="153.58909090909088" y="12.5" width="88.6090909090909" height="35" as="geometry" />
+          <mxGeometry x="161.49909090909088" y="12.5" width="88.6090909090909" height="35" as="geometry" />
         </mxCell>
         <mxCell id="vE8g7DjBLisUFb1u7CSR-40" value="逻辑设备对象N" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="vE8g7DjBLisUFb1u7CSR-42">
           <mxGeometry x="393.81818181818176" y="12.5" width="88.6090909090909" height="35" as="geometry" />
