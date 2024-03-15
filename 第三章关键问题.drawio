@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-15T22:31:12.577Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="lbfL-3lYZr4KVkm-T59z" version="24.0.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-15T22:33:59.839Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ERexpaRIekMH3CzNN1t7" version="24.0.6" type="github" pages="2">
   <diagram name="第 1 页" id="_jJcYhXfENBetBatNS-F">
     <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -204,19 +204,10 @@
         <mxCell id="vE8g7DjBLisUFb1u7CSR-9" value="邮件导出" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="220" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vE8g7DjBLisUFb1u7CSR-54" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=openThin;endFill=0;" edge="1" parent="1" source="vE8g7DjBLisUFb1u7CSR-11" target="vE8g7DjBLisUFb1u7CSR-26">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="vE8g7DjBLisUFb1u7CSR-11" value="配置管理" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#EBEBEB;shape=mxgraph.archimate3.application;appType=interface;archiType=square;" vertex="1" parent="1">
           <mxGeometry x="109" y="320" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vE8g7DjBLisUFb1u7CSR-63" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=openThin;endFill=0;" edge="1" parent="1" source="vE8g7DjBLisUFb1u7CSR-12" target="vE8g7DjBLisUFb1u7CSR-26">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="vE8g7DjBLisUFb1u7CSR-65" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=openThin;endFill=0;" edge="1" parent="1" source="vE8g7DjBLisUFb1u7CSR-12" target="vE8g7DjBLisUFb1u7CSR-24">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="vE8g7DjBLisUFb1u7CSR-66" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=openThin;endFill=0;" edge="1" parent="1" source="vE8g7DjBLisUFb1u7CSR-12" target="vE8g7DjBLisUFb1u7CSR-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vE8g7DjBLisUFb1u7CSR-12" value="备份任务控制台" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#EBEBEB;shape=mxgraph.archimate3.application;appType=interface;archiType=square;" vertex="1" parent="1">
@@ -414,6 +405,15 @@
         </mxCell>
         <mxCell id="vE8g7DjBLisUFb1u7CSR-93" value="逻辑设备层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-20" y="595" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vE8g7DjBLisUFb1u7CSR-54" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=openThin;endFill=0;" edge="1" parent="1" source="vE8g7DjBLisUFb1u7CSR-11" target="vE8g7DjBLisUFb1u7CSR-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vE8g7DjBLisUFb1u7CSR-63" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=openThin;endFill=0;" edge="1" parent="1" source="vE8g7DjBLisUFb1u7CSR-12" target="vE8g7DjBLisUFb1u7CSR-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vE8g7DjBLisUFb1u7CSR-66" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=openThin;endFill=0;" edge="1" parent="1" source="vE8g7DjBLisUFb1u7CSR-12" target="vE8g7DjBLisUFb1u7CSR-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
