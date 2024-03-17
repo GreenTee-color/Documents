@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-16T18:56:49.509Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="y7oZThMq0c1OIfSUNWA4" version="24.0.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-17T08:19:41.382Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="9uWCTZZSc0Ich672UssT" version="24.0.7" type="github" pages="2">
   <diagram name="第 1 页" id="_jJcYhXfENBetBatNS-F">
     <mxGraphModel dx="1050" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -306,7 +306,7 @@
         <mxCell id="vE8g7DjBLisUFb1u7CSR-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="vE8g7DjBLisUFb1u7CSR-55" source="vE8g7DjBLisUFb1u7CSR-26" target="vE8g7DjBLisUFb1u7CSR-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vE8g7DjBLisUFb1u7CSR-26" value="数据库访问管理" style="html=1;whiteSpace=wrap;fontStyle=0" parent="vE8g7DjBLisUFb1u7CSR-55" vertex="1">
+        <mxCell id="vE8g7DjBLisUFb1u7CSR-26" value="数据库管理" style="html=1;whiteSpace=wrap;fontStyle=0" parent="vE8g7DjBLisUFb1u7CSR-55" vertex="1">
           <mxGeometry width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vE8g7DjBLisUFb1u7CSR-28" value="账户配置表接口" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;" parent="vE8g7DjBLisUFb1u7CSR-55" vertex="1">
