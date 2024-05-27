@@ -1,9 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2024-05-27T09:29:46.065Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="24.2.5" etag="y4UQfxxwkELeq1Y3qe5k" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-27T10:13:59.087Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ZYJhTZCyz7hbdZ-WsAsy" version="24.2.5" type="github">
   <diagram name="第 1 页" id="KcgZMIl5eJW6m7BrYvfu">
-    <mxGraphModel>
+    <mxGraphModel dx="1036" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3NGuBXXZeXwHXCW2pUsl-2" value="邮件服务1（163.com）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3NGuBXXZeXwHXCW2pUsl-3" value="邮件服务2&lt;div&gt;（qq.com）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3NGuBXXZeXwHXCW2pUsl-4" value="邮件服务3&lt;div&gt;（gmail.com）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3NGuBXXZeXwHXCW2pUsl-5" value="邮件服务4&lt;div&gt;（sina.com）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3NGuBXXZeXwHXCW2pUsl-6" value="邮件服务N&lt;div&gt;（XXXX.com）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="180" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
