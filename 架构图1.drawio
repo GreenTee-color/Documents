@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-09T19:27:02.952Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Y2658PkUHE0zfcoXdJJe" version="24.5.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-06-09T19:27:44.924Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="bbPcsNUiJcKWRJS9kw6z" version="24.5.1" type="github" pages="4">
   <diagram name="第 1 页" id="KcgZMIl5eJW6m7BrYvfu">
     <mxGraphModel dx="1036" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -782,6 +782,9 @@
         </mxCell>
         <mxCell id="6vw-87wu6gr56QWhK4cF-84" value="云附件文件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="6vw-87wu6gr56QWhK4cF-93">
           <mxGeometry x="165" y="36.5" width="76" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6vw-87wu6gr56QWhK4cF-96" value="备份数据存储布局" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="622" y="130" width="130" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
