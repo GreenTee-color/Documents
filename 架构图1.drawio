@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-13T06:40:46.380Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="OvhEJXJ7NYMwUU6NeqG8" version="24.5.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-06-13T06:41:14.195Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="yVM3W8EBpgLfNnMcX3Y8" version="24.5.3" type="github" pages="5">
   <diagram name="第 1 页" id="KcgZMIl5eJW6m7BrYvfu">
     <mxGraphModel dx="1036" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -841,7 +841,7 @@
         <mxCell id="k5NGZF5D0BlnLfserAXs-10" value="存储&lt;div&gt;和&lt;/div&gt;&lt;div&gt;目录&lt;/div&gt;&lt;div&gt;管理&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="220" width="50" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="k5NGZF5D0BlnLfserAXs-14" value="云附件&lt;div&gt;采集&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="k5NGZF5D0BlnLfserAXs-14" value="云附件&lt;div&gt;获取&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="500" y="220" width="50" height="130" as="geometry" />
         </mxCell>
         <mxCell id="k5NGZF5D0BlnLfserAXs-16" value="邮件&lt;div&gt;解析&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
