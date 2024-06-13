@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-13T18:40:23.076Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="rmdCQi0jjrQC48vSGrV1" version="24.5.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-06-13T18:42:10.146Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="wYonvG_pHFwuxaYpLqC9" version="24.5.4" type="github" pages="5">
   <diagram name="第 1 页" id="KcgZMIl5eJW6m7BrYvfu">
     <mxGraphModel dx="1036" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -884,28 +884,28 @@
           <mxGeometry x="520" y="225" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="06Yfyso6Ie7ZvUvCbfdn-1" value="连接验证" style="whiteSpace=wrap;html=1;fontSize=14;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="320" width="40" height="140" as="geometry" />
+          <mxGeometry x="90" y="320" width="40" height="140" as="geometry" />
         </mxCell>
         <mxCell id="06Yfyso6Ie7ZvUvCbfdn-3" value="邮件检索" style="whiteSpace=wrap;html=1;fontSize=14;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="150" y="320" width="40" height="140" as="geometry" />
+          <mxGeometry x="140" y="320" width="40" height="140" as="geometry" />
         </mxCell>
         <mxCell id="06Yfyso6Ie7ZvUvCbfdn-4" value="邮件数据获取" style="whiteSpace=wrap;html=1;fontSize=14;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="320" width="40" height="140" as="geometry" />
+          <mxGeometry x="190" y="320" width="40" height="140" as="geometry" />
         </mxCell>
         <mxCell id="06Yfyso6Ie7ZvUvCbfdn-7" value="备份任务解析" style="whiteSpace=wrap;html=1;fontSize=14;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="250" y="320" width="40" height="140" as="geometry" />
+          <mxGeometry x="240" y="320" width="40" height="140" as="geometry" />
         </mxCell>
         <mxCell id="06Yfyso6Ie7ZvUvCbfdn-9" value="存储管理" style="whiteSpace=wrap;html=1;fontSize=14;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="320" width="40" height="140" as="geometry" />
         </mxCell>
         <mxCell id="06Yfyso6Ie7ZvUvCbfdn-11" value="邮件信封解析" style="whiteSpace=wrap;html=1;fontSize=14;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="530" y="320" width="40" height="140" as="geometry" />
+          <mxGeometry x="520" y="320" width="40" height="140" as="geometry" />
         </mxCell>
         <mxCell id="06Yfyso6Ie7ZvUvCbfdn-12" value="MIME结构解析" style="whiteSpace=wrap;html=1;fontSize=14;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="320" width="40" height="140" as="geometry" />
         </mxCell>
         <mxCell id="06Yfyso6Ie7ZvUvCbfdn-13" value="云附件解析" style="whiteSpace=wrap;html=1;fontSize=14;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="670" y="320" width="40" height="140" as="geometry" />
+          <mxGeometry x="660" y="320" width="40" height="140" as="geometry" />
         </mxCell>
         <mxCell id="06Yfyso6Ie7ZvUvCbfdn-14" value="云附件下载" style="whiteSpace=wrap;html=1;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="740" y="320" width="40" height="140" as="geometry" />
