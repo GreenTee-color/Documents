@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-14T19:01:22.385Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="DxUq_KCADVTQH6AEfwhU" version="24.5.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-06-14T19:33:34.866Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="nTDEL5HWaP2ekAKXWwlW" version="24.5.4" type="github" pages="6">
   <diagram name="第 1 页" id="KcgZMIl5eJW6m7BrYvfu">
     <mxGraphModel dx="1036" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -925,7 +925,97 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-UedNOeA-7SOeenZRDBw-6" value="备份任务处理程序开始" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="230" y="50" width="150" height="40" as="geometry" />
+          <mxGeometry x="441.25" y="50" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-UedNOeA-7SOeenZRDBw-7" value="读取备份任务列表" style="whiteSpace=wrap;html=1;fontSize=13;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="448.75" y="120" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-UedNOeA-7SOeenZRDBw-9" value="解析当前任务i" style="whiteSpace=wrap;html=1;fontSize=13;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="441.25" y="330" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-UedNOeA-7SOeenZRDBw-11" value="从邮件服务器&lt;div&gt;获取邮件数据&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=13;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="796.25" y="300" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-UedNOeA-7SOeenZRDBw-13" value="保存邮件数据到&lt;div&gt;临时数据区&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=13;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="801.25" y="370" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-UedNOeA-7SOeenZRDBw-15" value="对临时数据区的数据进行解码和二次过滤" style="whiteSpace=wrap;html=1;fontSize=13;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="803.75" y="440" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-UedNOeA-7SOeenZRDBw-17" value="计算待备份数据大小" style="whiteSpace=wrap;html=1;fontSize=13;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="803.75" y="510" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-UedNOeA-7SOeenZRDBw-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-UedNOeA-7SOeenZRDBw-20" target="-UedNOeA-7SOeenZRDBw-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-UedNOeA-7SOeenZRDBw-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-UedNOeA-7SOeenZRDBw-20" target="-UedNOeA-7SOeenZRDBw-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-UedNOeA-7SOeenZRDBw-20" value="目标位置容量充足？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="542.5" width="152.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-UedNOeA-7SOeenZRDBw-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-UedNOeA-7SOeenZRDBw-22" target="-UedNOeA-7SOeenZRDBw-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-UedNOeA-7SOeenZRDBw-22" value="将待备份数据保存&lt;div&gt;到目标位置&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250.63" y="590" width="126.25" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="-UedNOeA-7SOeenZRDBw-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-UedNOeA-7SOeenZRDBw-24" target="-UedNOeA-7SOeenZRDBw-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-UedNOeA-7SOeenZRDBw-24" value="当前任务成功执行" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="253.76" y="670" width="120" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="-UedNOeA-7SOeenZRDBw-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-UedNOeA-7SOeenZRDBw-26" target="-UedNOeA-7SOeenZRDBw-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-UedNOeA-7SOeenZRDBw-26" value="轮询其他分区容量" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="799.38" y="625" width="133.75" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="-UedNOeA-7SOeenZRDBw-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-UedNOeA-7SOeenZRDBw-28" target="-UedNOeA-7SOeenZRDBw-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-UedNOeA-7SOeenZRDBw-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-UedNOeA-7SOeenZRDBw-28" target="-UedNOeA-7SOeenZRDBw-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-UedNOeA-7SOeenZRDBw-28" value="是否切换目标分区？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="643.75" y="585" width="152.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-UedNOeA-7SOeenZRDBw-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-UedNOeA-7SOeenZRDBw-29" target="-UedNOeA-7SOeenZRDBw-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-UedNOeA-7SOeenZRDBw-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-UedNOeA-7SOeenZRDBw-29" target="-UedNOeA-7SOeenZRDBw-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-UedNOeA-7SOeenZRDBw-29" value="存在可用分区？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="690" width="152.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-UedNOeA-7SOeenZRDBw-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-UedNOeA-7SOeenZRDBw-31" target="-UedNOeA-7SOeenZRDBw-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-UedNOeA-7SOeenZRDBw-31" value="当前任务执行失败" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="632.5" width="120" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="-UedNOeA-7SOeenZRDBw-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-UedNOeA-7SOeenZRDBw-35" target="-UedNOeA-7SOeenZRDBw-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-UedNOeA-7SOeenZRDBw-35" value="将待备份数据保存&lt;div&gt;到新位置&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="803.13" y="772.5" width="126.25" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="-UedNOeA-7SOeenZRDBw-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-UedNOeA-7SOeenZRDBw-39" target="-UedNOeA-7SOeenZRDBw-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-UedNOeA-7SOeenZRDBw-39" value="当前任务成功执行" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="806.25" y="842.5" width="120" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="-UedNOeA-7SOeenZRDBw-41" value="清理临时数据&lt;div&gt;执行下一任务&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="253.76" y="831.25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-UedNOeA-7SOeenZRDBw-48" value="剩余任务数≥1" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="448.75" y="250" width="152.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-UedNOeA-7SOeenZRDBw-50" value="返回所有任务执行结果" style="whiteSpace=wrap;html=1;fontSize=13;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="451.25" y="190" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
