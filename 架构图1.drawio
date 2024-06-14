@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-14T19:33:34.866Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="nTDEL5HWaP2ekAKXWwlW" version="24.5.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-06-14T19:55:53.073Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ZQNTAWiAq_1zde0A1kXq" version="24.5.4" type="github" pages="6">
   <diagram name="第 1 页" id="KcgZMIl5eJW6m7BrYvfu">
     <mxGraphModel dx="1036" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -925,22 +925,22 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-UedNOeA-7SOeenZRDBw-6" value="备份任务处理程序开始" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="441.25" y="50" width="150" height="40" as="geometry" />
+          <mxGeometry x="190" y="40" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-UedNOeA-7SOeenZRDBw-7" value="读取备份任务列表" style="whiteSpace=wrap;html=1;fontSize=13;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="448.75" y="120" width="140" height="40" as="geometry" />
+          <mxGeometry x="450" y="40" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-UedNOeA-7SOeenZRDBw-9" value="解析当前任务i" style="whiteSpace=wrap;html=1;fontSize=13;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="441.25" y="330" width="130" height="40" as="geometry" />
+        <mxCell id="-UedNOeA-7SOeenZRDBw-9" value="解析任务&lt;b&gt;i&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontSize=13;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="666.25" y="200" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-UedNOeA-7SOeenZRDBw-11" value="从邮件服务器&lt;div&gt;获取邮件数据&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=13;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="796.25" y="300" width="140" height="40" as="geometry" />
+        <mxCell id="-UedNOeA-7SOeenZRDBw-11" value="连接邮件服务器&lt;div&gt;验证身份&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=13;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="200" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-UedNOeA-7SOeenZRDBw-13" value="保存邮件数据到&lt;div&gt;临时数据区&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=13;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="801.25" y="370" width="140" height="40" as="geometry" />
+          <mxGeometry x="210" y="310" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-UedNOeA-7SOeenZRDBw-15" value="对临时数据区的数据进行解码和二次过滤" style="whiteSpace=wrap;html=1;fontSize=13;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="803.75" y="440" width="140" height="40" as="geometry" />
+        <mxCell id="-UedNOeA-7SOeenZRDBw-15" value="解码邮件并二次过滤" style="whiteSpace=wrap;html=1;fontSize=13;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="310" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-UedNOeA-7SOeenZRDBw-17" value="计算待备份数据大小" style="whiteSpace=wrap;html=1;fontSize=13;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="803.75" y="510" width="140" height="40" as="geometry" />
@@ -1012,10 +1012,40 @@
           <mxGeometry x="253.76" y="831.25" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-UedNOeA-7SOeenZRDBw-48" value="剩余任务数≥1" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="448.75" y="250" width="152.5" height="40" as="geometry" />
+          <mxGeometry x="660" y="120" width="152.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-UedNOeA-7SOeenZRDBw-50" value="返回所有任务执行结果" style="whiteSpace=wrap;html=1;fontSize=13;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="451.25" y="190" width="140" height="40" as="geometry" />
+          <mxGeometry x="666.25" y="40" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-UedNOeA-7SOeenZRDBw-51" value="备份任务处理程序结束" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="910" y="120" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-UedNOeA-7SOeenZRDBw-52" value="根据部分过滤条件&lt;div&gt;获取邮件&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=13;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="200" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-UedNOeA-7SOeenZRDBw-53" value="根据部分过滤条件&lt;div&gt;获取邮件&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=13;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="933.13" y="420" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-UedNOeA-7SOeenZRDBw-54" value="是否备份直接附件？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="666.25" y="310" width="152.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-UedNOeA-7SOeenZRDBw-55" value="根据部分过滤条件&lt;div&gt;获取邮件&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=13;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="943.13" y="430" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-UedNOeA-7SOeenZRDBw-56" value="根据部分过滤条件&lt;div&gt;获取邮件&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=13;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="953.13" y="440" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-UedNOeA-7SOeenZRDBw-57" value="根据部分过滤条件&lt;div&gt;获取邮件&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=13;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="963.13" y="450" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-UedNOeA-7SOeenZRDBw-58" value="邮件MIME结构解析" style="whiteSpace=wrap;html=1;fontSize=13;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="400" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-UedNOeA-7SOeenZRDBw-59" value="是否备份云附件？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="310" width="152.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-UedNOeA-7SOeenZRDBw-60" value="邮件正文HTML解析" style="whiteSpace=wrap;html=1;fontSize=13;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="400" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
