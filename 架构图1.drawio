@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-15T20:40:51.677Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="hTOjSQcsJguOGfsPSP1Y" version="24.5.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-06-15T20:47:29.998Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="HxGYK4oMRFlKy0wU4bFN" version="24.5.4" type="github" pages="7">
   <diagram name="第 1 页" id="KcgZMIl5eJW6m7BrYvfu">
     <mxGraphModel dx="1036" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1236,6 +1236,48 @@
         </mxCell>
         <mxCell id="7hD16pPYc2Ar6wgd49eS-11" value="查询索引" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="810" y="340" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7hD16pPYc2Ar6wgd49eS-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7hD16pPYc2Ar6wgd49eS-13" target="7hD16pPYc2Ar6wgd49eS-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7hD16pPYc2Ar6wgd49eS-13" value="获取文档" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="395" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7hD16pPYc2Ar6wgd49eS-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7hD16pPYc2Ar6wgd49eS-14" target="7hD16pPYc2Ar6wgd49eS-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7hD16pPYc2Ar6wgd49eS-14" value="构建文档对象" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="455" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7hD16pPYc2Ar6wgd49eS-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7hD16pPYc2Ar6wgd49eS-15" target="7hD16pPYc2Ar6wgd49eS-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7hD16pPYc2Ar6wgd49eS-15" value="分析文档（分词）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="513" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7hD16pPYc2Ar6wgd49eS-16" value="创建索引" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="570" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7hD16pPYc2Ar6wgd49eS-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7hD16pPYc2Ar6wgd49eS-17" target="7hD16pPYc2Ar6wgd49eS-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7hD16pPYc2Ar6wgd49eS-17" value="输入查询条件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="395" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7hD16pPYc2Ar6wgd49eS-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7hD16pPYc2Ar6wgd49eS-18" target="7hD16pPYc2Ar6wgd49eS-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7hD16pPYc2Ar6wgd49eS-18" value="创建查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="455" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7hD16pPYc2Ar6wgd49eS-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7hD16pPYc2Ar6wgd49eS-19" target="7hD16pPYc2Ar6wgd49eS-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7hD16pPYc2Ar6wgd49eS-19" value="执行查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="513" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7hD16pPYc2Ar6wgd49eS-20" value="返回结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="570" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
