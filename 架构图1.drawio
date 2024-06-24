@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-15T21:37:13.596Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="kgqc-Zu8gjT_FOVHIsXN" version="24.5.4" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-06-24T16:41:14.109Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="J779DNvDWC2ddvagrrfc" version="24.5.4" type="github" pages="8">
   <diagram name="第 1 页" id="KcgZMIl5eJW6m7BrYvfu">
     <mxGraphModel dx="1036" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1208,10 +1208,37 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wHIl27cmpJBK0wCDFwyg" name="第 8 页">
-    <mxGraphModel dx="1036" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="863" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="RQFkh0EZgeBO1n4uWwdz-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="150" width="600" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="RQFkh0EZgeBO1n4uWwdz-3" value="电子邮件用户" style="points=[[0.35,0,0],[0.98,0.51,0],[1,0.71,0],[0.67,1,0],[0,0.795,0],[0,0.65,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.user;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="370" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RQFkh0EZgeBO1n4uWwdz-5" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;MDLStore邮件数据备份工具&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="160" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RQFkh0EZgeBO1n4uWwdz-8" value="备份邮件数据" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="290" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RQFkh0EZgeBO1n4uWwdz-9" value="查阅备份数据" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="460" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RQFkh0EZgeBO1n4uWwdz-10" value="管理多个邮箱账户" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="190" width="135" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RQFkh0EZgeBO1n4uWwdz-11" value="备份RFC2822邮件全文" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="250" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RQFkh0EZgeBO1n4uWwdz-12" value="备份邮件直接附件" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="330" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RQFkh0EZgeBO1n4uWwdz-13" value="备份邮件云附件" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="410" width="140" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
