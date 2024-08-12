@@ -1466,82 +1466,82 @@
         <mxCell id="ZbmkHEWD19FU0zCcIk63-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="33.5" y="190" width="750" height="520" as="geometry" />
         </mxCell>
-        <mxCell id="ZbmkHEWD19FU0zCcIk63-1" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;数据库管理器&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ EmailAccountManager&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ BackupTaskManager&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ EmailInfoManager&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ AttachmentManager&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="ZbmkHEWD19FU0zCcIk63-1" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;数据库管理器&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ EmailAccountManager&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ BackupTaskManager&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ EmailInfoManager&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ AttachmentManager&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="60" y="300" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ZbmkHEWD19FU0zCcIk63-2" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="ZbmkHEWD19FU0zCcIk63-1">
+        <mxCell id="ZbmkHEWD19FU0zCcIk63-2" value="" style="shape=component;jettyWidth=8;jettyHeight=4;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="ZbmkHEWD19FU0zCcIk63-1">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-24" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZbmkHEWD19FU0zCcIk63-3" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;文件系统管理器&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+StorageManager&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+FileWriter&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+FileReader&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+PathDirUtils&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="ZbmkHEWD19FU0zCcIk63-3" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;文件系统管理器&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+StorageManager&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+FileWriter&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+FileReader&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+PathDirUtils&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="580" y="410" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ZbmkHEWD19FU0zCcIk63-4" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="ZbmkHEWD19FU0zCcIk63-3">
+        <mxCell id="ZbmkHEWD19FU0zCcIk63-4" value="" style="shape=component;jettyWidth=8;jettyHeight=4;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="ZbmkHEWD19FU0zCcIk63-3">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-24" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZbmkHEWD19FU0zCcIk63-5" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;邮件数据解析器&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ EmailParser&lt;br&gt;+ CloudFileParser&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="ZbmkHEWD19FU0zCcIk63-5" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;邮件数据解析器&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ EmailParser&lt;br&gt;+ CloudFileParser&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="60" y="410" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ZbmkHEWD19FU0zCcIk63-6" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="ZbmkHEWD19FU0zCcIk63-5">
+        <mxCell id="ZbmkHEWD19FU0zCcIk63-6" value="" style="shape=component;jettyWidth=8;jettyHeight=4;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="ZbmkHEWD19FU0zCcIk63-5">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-24" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZbmkHEWD19FU0zCcIk63-7" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Utils工具包&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ EmailUtils&lt;br&gt;+ CommonUtils&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="ZbmkHEWD19FU0zCcIk63-7" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Utils工具包&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ EmailUtils&lt;br&gt;+ CommonUtils&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="580" y="520" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ZbmkHEWD19FU0zCcIk63-8" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="ZbmkHEWD19FU0zCcIk63-7">
+        <mxCell id="ZbmkHEWD19FU0zCcIk63-8" value="" style="shape=component;jettyWidth=8;jettyHeight=4;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="ZbmkHEWD19FU0zCcIk63-7">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-24" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZbmkHEWD19FU0zCcIk63-9" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;云附件解析器&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+&amp;nbsp;CloudFileParser&lt;br&gt;+ CloudAttachmentDownloader&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="ZbmkHEWD19FU0zCcIk63-9" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;云附件解析器&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+&amp;nbsp;CloudFileParser&lt;br&gt;+ CloudAttachmentDownloader&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="318.5" y="410" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ZbmkHEWD19FU0zCcIk63-10" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="ZbmkHEWD19FU0zCcIk63-9">
+        <mxCell id="ZbmkHEWD19FU0zCcIk63-10" value="" style="shape=component;jettyWidth=8;jettyHeight=4;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="ZbmkHEWD19FU0zCcIk63-9">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-24" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZbmkHEWD19FU0zCcIk63-13" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;IMAP邮件客户端&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ IMAPClientBase&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="ZbmkHEWD19FU0zCcIk63-13" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;IMAP邮件客户端&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ IMAPClientBase&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="318.5" y="300" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ZbmkHEWD19FU0zCcIk63-14" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="ZbmkHEWD19FU0zCcIk63-13">
+        <mxCell id="ZbmkHEWD19FU0zCcIk63-14" value="" style="shape=component;jettyWidth=8;jettyHeight=4;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="ZbmkHEWD19FU0zCcIk63-13">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-24" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZbmkHEWD19FU0zCcIk63-16" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;备份任务控制台&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ loadBackupTask&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+&amp;nbsp;backupEmailToTmpArea&lt;br&gt;+&amp;nbsp;extractEmailData&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="ZbmkHEWD19FU0zCcIk63-16" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;备份任务控制台&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ loadBackupTask&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+&amp;nbsp;backupEmailToTmpArea&lt;br&gt;+&amp;nbsp;extractEmailData&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="580" y="300" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ZbmkHEWD19FU0zCcIk63-17" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="ZbmkHEWD19FU0zCcIk63-16">
+        <mxCell id="ZbmkHEWD19FU0zCcIk63-17" value="" style="shape=component;jettyWidth=8;jettyHeight=4;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="ZbmkHEWD19FU0zCcIk63-16">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-24" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZbmkHEWD19FU0zCcIk63-18" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;全文索引管理器&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ IndexManager&lt;br&gt;+&amp;nbsp;CustomTokenizer&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ FileReader&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="ZbmkHEWD19FU0zCcIk63-18" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;全文索引管理器&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ IndexManager&lt;br&gt;+&amp;nbsp;CustomTokenizer&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ FileReader&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="60" y="520" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ZbmkHEWD19FU0zCcIk63-19" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="ZbmkHEWD19FU0zCcIk63-18">
+        <mxCell id="ZbmkHEWD19FU0zCcIk63-19" value="" style="shape=component;jettyWidth=8;jettyHeight=4;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="ZbmkHEWD19FU0zCcIk63-18">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-24" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZbmkHEWD19FU0zCcIk63-20" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;邮件数据搜索引擎&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ EmailSearchCriteria&lt;br&gt;+ AttachmentSearchCriteria&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ Search&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ SearchWithFullText&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="ZbmkHEWD19FU0zCcIk63-20" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;邮件数据搜索引擎&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ EmailSearchCriteria&lt;br&gt;+ AttachmentSearchCriteria&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ Search&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ SearchWithFullText&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="318.5" y="520" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ZbmkHEWD19FU0zCcIk63-21" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="ZbmkHEWD19FU0zCcIk63-20">
+        <mxCell id="ZbmkHEWD19FU0zCcIk63-21" value="" style="shape=component;jettyWidth=8;jettyHeight=4;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="ZbmkHEWD19FU0zCcIk63-20">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-24" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZbmkHEWD19FU0zCcIk63-25" value="基础库和第三方工具包" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="ZbmkHEWD19FU0zCcIk63-25" value="基础库和第三方工具包" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="60" y="636" width="700" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ZbmkHEWD19FU0zCcIk63-28" value="图形用户界面（GUI）" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="ZbmkHEWD19FU0zCcIk63-28" value="图形用户界面（GUI）" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="58.5" y="229" width="700" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZbmkHEWD19FU0zCcIk63-29" value="MDLStore 主程序" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
