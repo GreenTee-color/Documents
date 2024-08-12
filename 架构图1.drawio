@@ -1554,7 +1554,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZbmkHEWD19FU0zCcIk63-31" value="Windows操作系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="300" y="760" width="166" height="30" as="geometry" />
+          <mxGeometry x="325.5" y="760" width="166" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
