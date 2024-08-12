@@ -1545,7 +1545,7 @@
           <mxGeometry x="58.5" y="229" width="700" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZbmkHEWD19FU0zCcIk63-29" value="MDLStore 主程序" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="333.5" y="190" width="150" height="30" as="geometry" />
+          <mxGeometry x="333.5" y="194" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZbmkHEWD19FU0zCcIk63-30" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
