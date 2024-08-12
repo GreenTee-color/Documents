@@ -1549,11 +1549,11 @@
         </mxCell>
         <mxCell id="ZbmkHEWD19FU0zCcIk63-30" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=2;fontSize=13;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="20" y="740" as="sourcePoint" />
-            <mxPoint x="800" y="740" as="targetPoint" />
+            <mxPoint x="35.25" y="740" as="sourcePoint" />
+            <mxPoint x="781.75" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZbmkHEWD19FU0zCcIk63-31" value="Windows操作系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="ZbmkHEWD19FU0zCcIk63-31" value="Windows操作系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="323.5" y="760" width="166" height="30" as="geometry" />
         </mxCell>
       </root>
