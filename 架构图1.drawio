@@ -1844,7 +1844,7 @@
           <mxGeometry x="140" y="132.5" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="u7RSpz0wwBXOkUjpoUtr-64" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAAFcAAACICAMAAAClfoekAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAA5UExURQAAABgwUBUrUBYtUBgsUhYtUhcsURctURguVBcsUSA5ZyI+bitLhC5PizNYmDdepDlgpz5qtURyxOd8QmIAAAAJdFJOUwAgMFCAn7/f/uidqtQAAAAJcEhZcwAAFxEAABcRAcom8z8AAAEfSURBVGhD7dlJEsIwDERRAyHM4/0PC6QFlcGxZUvZUP032kivvHeI1x60tXKhazn3/tR0p9tFF9FFdBFdRBfRRXQRXUQX0UV0EV1EF9FFdBFdRBfRRXQRXUQX0UV0EV1EF9FFdBFd9D/uqom1U7s7uRi2DqGRj/ZRWjfa9vPiN3y8THrIZbqHbPc6CdvBV9mzd9t/WVe4zzrCQ9YNHrNO8JR1gWOsAxxnzfAca4TnWROcYg1wmq2Gc2wlnGerYA1bAevYYljLFsJ6tgguYQvgMlYNl7JKuJxVwTWsAq5js3Atm4Hr2SRsYROwjZ2FrewMbGejsAcbgX3YCezFjmA/dgB7sj3Yl/3B3qzA/mwHnxdgO3gJ9gMvwoawkZkvhBc+3XrgXLDgeQAAAABJRU5ErkJggg==;" vertex="1" parent="1">
-          <mxGeometry x="-497.39" y="720" width="44.78" height="70" as="geometry" />
+          <mxGeometry x="-497.39" y="730" width="44.78" height="70" as="geometry" />
         </mxCell>
         <mxCell id="u7RSpz0wwBXOkUjpoUtr-65" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SQL_Database.svg;imageBackground=default;" vertex="1" parent="1">
           <mxGeometry x="-399" y="790" width="48" height="64" as="geometry" />
@@ -1855,8 +1855,8 @@
         <mxCell id="u7RSpz0wwBXOkUjpoUtr-67" value="全文索引库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-630" y="870" width="86" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="u7RSpz0wwBXOkUjpoUtr-68" value="加载数据库和索引库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-556.5" y="690" width="163" height="30" as="geometry" />
+        <mxCell id="u7RSpz0wwBXOkUjpoUtr-68" value="加载对应磁盘中的数据库和索引库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-618.25" y="693" width="286.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u7RSpz0wwBXOkUjpoUtr-69" value="SQL查询语句" style="whiteSpace=wrap;html=1;rounded=0;arcSize=10;dashed=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-130" y="812" width="140" height="40" as="geometry" />
