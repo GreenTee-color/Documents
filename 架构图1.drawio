@@ -1977,25 +1977,13 @@
         <mxCell id="RPpJbg7D9pHEGdv4c5-6-6" value="查阅备份数据" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="241" y="600" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="RPpJbg7D9pHEGdv4c5-6-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.212;entryY=0.062;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;entryPerimeter=0;" edge="1" parent="1" source="RPpJbg7D9pHEGdv4c5-6-8" target="RPpJbg7D9pHEGdv4c5-6-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="RPpJbg7D9pHEGdv4c5-6-8" value="管理&lt;span style=&quot;background-color: initial;&quot;&gt;邮箱账户&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="486" y="230" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="RPpJbg7D9pHEGdv4c5-6-9" value="备份&lt;span style=&quot;background-color: initial;&quot;&gt;RFC&lt;/span&gt;&lt;div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;邮件全文&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="486" y="300" width="110" height="50" as="geometry" />
+        <mxCell id="RPpJbg7D9pHEGdv4c5-6-12" value="检索邮件数据" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="483" y="573" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="RPpJbg7D9pHEGdv4c5-6-10" value="备份&lt;span style=&quot;background-color: initial;&quot;&gt;直接&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;附件&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="486" y="370" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="RPpJbg7D9pHEGdv4c5-6-11" value="备份云附件" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="486" y="440" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="RPpJbg7D9pHEGdv4c5-6-12" value="邮件数据检索" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="486" y="573" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="RPpJbg7D9pHEGdv4c5-6-13" value="邮件数据浏览" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="RPpJbg7D9pHEGdv4c5-6-13" value="浏览邮件内容" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="486" y="683" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RPpJbg7D9pHEGdv4c5-6-14" value="按信封和正文&lt;div style=&quot;font-size: 14px;&quot;&gt;关键字检索&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
@@ -2004,45 +1992,15 @@
         <mxCell id="RPpJbg7D9pHEGdv4c5-6-15" value="按附件内容&lt;div style=&quot;font-size: 14px;&quot;&gt;关键字检索&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="686" y="620" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="RPpJbg7D9pHEGdv4c5-6-16" value="创建备份任务" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="686" y="340" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="RPpJbg7D9pHEGdv4c5-6-17" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=10;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.044;entryY=0.28;entryDx=0;entryDy=0;fontSize=12;fontStyle=1;entryPerimeter=0;" edge="1" parent="1" source="RPpJbg7D9pHEGdv4c5-6-9" target="RPpJbg7D9pHEGdv4c5-6-16">
-          <mxGeometry x="-0.1622" y="1" width="160" relative="1" as="geometry">
-            <mxPoint x="306" y="400" as="sourcePoint" />
-            <mxPoint x="466" y="400" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RPpJbg7D9pHEGdv4c5-6-18" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=10;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;fontStyle=1" edge="1" parent="1" source="RPpJbg7D9pHEGdv4c5-6-10" target="RPpJbg7D9pHEGdv4c5-6-16">
-          <mxGeometry x="-0.1622" y="1" width="160" relative="1" as="geometry">
-            <mxPoint x="616" y="390" as="sourcePoint" />
-            <mxPoint x="723" y="440" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RPpJbg7D9pHEGdv4c5-6-19" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=10;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;fontSize=12;fontStyle=1" edge="1" parent="1" source="RPpJbg7D9pHEGdv4c5-6-11" target="RPpJbg7D9pHEGdv4c5-6-16">
-          <mxGeometry x="-0.1622" y="1" width="160" relative="1" as="geometry">
-            <mxPoint x="606" y="360" as="sourcePoint" />
-            <mxPoint x="711" y="343" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RPpJbg7D9pHEGdv4c5-6-20" value="" style="endArrow=block;endSize=10;endFill=0;html=1;rounded=0;entryX=0.931;entryY=0.807;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RPpJbg7D9pHEGdv4c5-6-11" target="RPpJbg7D9pHEGdv4c5-6-5">
+        <mxCell id="RPpJbg7D9pHEGdv4c5-6-21" value="" style="endArrow=block;endSize=10;endFill=0;html=1;rounded=0;entryX=0.993;entryY=0.626;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="RPpJbg7D9pHEGdv4c5-6-30" target="RPpJbg7D9pHEGdv4c5-6-5">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="326" y="480" as="sourcePoint" />
-            <mxPoint x="486" y="480" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RPpJbg7D9pHEGdv4c5-6-21" value="" style="endArrow=block;endSize=10;endFill=0;html=1;rounded=0;entryX=0.993;entryY=0.626;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="RPpJbg7D9pHEGdv4c5-6-10" target="RPpJbg7D9pHEGdv4c5-6-5">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="510.5" y="401" as="sourcePoint" />
+            <mxPoint x="486" y="395" as="sourcePoint" />
             <mxPoint x="391.5" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RPpJbg7D9pHEGdv4c5-6-22" value="" style="endArrow=block;endSize=10;endFill=0;html=1;rounded=0;entryX=0.979;entryY=0.417;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="RPpJbg7D9pHEGdv4c5-6-9" target="RPpJbg7D9pHEGdv4c5-6-5">
+        <mxCell id="RPpJbg7D9pHEGdv4c5-6-22" value="" style="endArrow=block;endSize=10;endFill=0;html=1;rounded=0;entryX=0.979;entryY=0.417;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="RPpJbg7D9pHEGdv4c5-6-29" target="RPpJbg7D9pHEGdv4c5-6-5">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="496" y="360" as="sourcePoint" />
+            <mxPoint x="486" y="325" as="sourcePoint" />
             <mxPoint x="391" y="335" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -2081,6 +2039,12 @@
             <mxPoint x="90" y="510" as="sourcePoint" />
             <mxPoint x="250" y="620" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="RPpJbg7D9pHEGdv4c5-6-29" value="管理备份任务" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="486" y="320" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RPpJbg7D9pHEGdv4c5-6-30" value="执行备份任务" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="483" y="420" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
