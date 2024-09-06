@@ -2143,7 +2143,7 @@
         <mxCell id="2Gia4OrKfml7ArEPdOXm-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontStyle=0" edge="1" parent="1" source="2Gia4OrKfml7ArEPdOXm-101" target="2Gia4OrKfml7ArEPdOXm-105">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2Gia4OrKfml7ArEPdOXm-101" value="读取当前邮件的附件信息" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="2Gia4OrKfml7ArEPdOXm-101" value="读取指定的附件信息" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="35" y="260" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2Gia4OrKfml7ArEPdOXm-103" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=5;endSize=3.6;endWidth=12;" edge="1" parent="1">
