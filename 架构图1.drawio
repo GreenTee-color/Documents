@@ -2131,6 +2131,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="2Gia4OrKfml7ArEPdOXm-130" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="363" y="170" width="547" height="380" as="geometry" />
+        </mxCell>
         <mxCell id="2Gia4OrKfml7ArEPdOXm-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontStyle=0" edge="1" parent="1" source="2Gia4OrKfml7ArEPdOXm-97" target="2Gia4OrKfml7ArEPdOXm-101">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -2417,6 +2420,9 @@
         </mxCell>
         <mxCell id="2Gia4OrKfml7ArEPdOXm-126" value="渲染附件查看器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="35" y="710" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2Gia4OrKfml7ArEPdOXm-131" value="邮件检索相关结果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="552.5" y="185" width="168" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
