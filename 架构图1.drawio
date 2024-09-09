@@ -34,13 +34,13 @@
         <mxCell id="3NGuBXXZeXwHXCW2pUsl-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="3NGuBXXZeXwHXCW2pUsl-25" source="3NGuBXXZeXwHXCW2pUsl-9" target="3NGuBXXZeXwHXCW2pUsl-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3NGuBXXZeXwHXCW2pUsl-9" value="邮箱账户管理" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="3NGuBXXZeXwHXCW2pUsl-25" vertex="1">
+        <mxCell id="3NGuBXXZeXwHXCW2pUsl-9" value="邮箱账户管理" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;" parent="3NGuBXXZeXwHXCW2pUsl-25" vertex="1">
           <mxGeometry x="40" y="60" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3NGuBXXZeXwHXCW2pUsl-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="3NGuBXXZeXwHXCW2pUsl-25" source="3NGuBXXZeXwHXCW2pUsl-10" target="3NGuBXXZeXwHXCW2pUsl-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3NGuBXXZeXwHXCW2pUsl-10" value="备份任务创建" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="3NGuBXXZeXwHXCW2pUsl-25" vertex="1">
+        <mxCell id="3NGuBXXZeXwHXCW2pUsl-10" value="备份任务创建" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;" parent="3NGuBXXZeXwHXCW2pUsl-25" vertex="1">
           <mxGeometry x="297" y="60" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ga4V0QvTUV2p10vAhNiy-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="3NGuBXXZeXwHXCW2pUsl-25" source="3NGuBXXZeXwHXCW2pUsl-11" target="3NGuBXXZeXwHXCW2pUsl-22" edge="1">
@@ -50,7 +50,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3NGuBXXZeXwHXCW2pUsl-11" value="邮件数据采集及处理" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="3NGuBXXZeXwHXCW2pUsl-25" vertex="1">
+        <mxCell id="3NGuBXXZeXwHXCW2pUsl-11" value="邮件数据采集及处理" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;" parent="3NGuBXXZeXwHXCW2pUsl-25" vertex="1">
           <mxGeometry x="535" y="60" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3NGuBXXZeXwHXCW2pUsl-14" value="MDLStore备份工具" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;container=0;" parent="3NGuBXXZeXwHXCW2pUsl-25" vertex="1">
@@ -71,7 +71,7 @@
         <mxCell id="3NGuBXXZeXwHXCW2pUsl-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="3NGuBXXZeXwHXCW2pUsl-25" source="3NGuBXXZeXwHXCW2pUsl-22" target="3NGuBXXZeXwHXCW2pUsl-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3NGuBXXZeXwHXCW2pUsl-22" value="邮件数据检索" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="3NGuBXXZeXwHXCW2pUsl-25" vertex="1">
+        <mxCell id="3NGuBXXZeXwHXCW2pUsl-22" value="邮件数据检索" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;" parent="3NGuBXXZeXwHXCW2pUsl-25" vertex="1">
           <mxGeometry x="420" y="145" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3NGuBXXZeXwHXCW2pUsl-24" value="GUI库" style="rounded=0;whiteSpace=wrap;html=1;container=0;dashed=1;" parent="3NGuBXXZeXwHXCW2pUsl-25" vertex="1">
@@ -98,7 +98,7 @@
         <mxCell id="3NGuBXXZeXwHXCW2pUsl-32" value="本地文件" style="rounded=0;whiteSpace=wrap;html=1;container=0;dashed=1;" parent="3NGuBXXZeXwHXCW2pUsl-25" vertex="1">
           <mxGeometry x="560" y="252" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3NGuBXXZeXwHXCW2pUsl-47" value="邮件数据浏览" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="3NGuBXXZeXwHXCW2pUsl-25" vertex="1">
+        <mxCell id="3NGuBXXZeXwHXCW2pUsl-47" value="邮件数据浏览" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;" parent="3NGuBXXZeXwHXCW2pUsl-25" vertex="1">
           <mxGeometry x="170" y="145" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ga4V0QvTUV2p10vAhNiy-26" value="附件全文索引" style="rounded=0;whiteSpace=wrap;html=1;container=0;dashed=1;" parent="3NGuBXXZeXwHXCW2pUsl-25" vertex="1">
