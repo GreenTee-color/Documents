@@ -22,7 +22,7 @@
         <mxCell id="3NGuBXXZeXwHXCW2pUsl-6" value="邮件服务N&lt;div&gt;（XXXX.com）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="40" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3NGuBXXZeXwHXCW2pUsl-7" value="电子邮件服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="3NGuBXXZeXwHXCW2pUsl-7" value="电子邮件服务器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="377" width="126" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3NGuBXXZeXwHXCW2pUsl-25" value="" style="group" parent="1" vertex="1" connectable="0">
