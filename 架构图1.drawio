@@ -912,7 +912,7 @@
         <mxCell id="06Yfyso6Ie7ZvUvCbfdn-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="k5NGZF5D0BlnLfserAXs-10" target="06Yfyso6Ie7ZvUvCbfdn-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k5NGZF5D0BlnLfserAXs-10" value="邮件数据解析器" style="whiteSpace=wrap;html=1;rounded=0;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="k5NGZF5D0BlnLfserAXs-10" value="邮件数据解析" style="whiteSpace=wrap;html=1;rounded=0;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="380" y="223" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="06Yfyso6Ie7ZvUvCbfdn-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="k5NGZF5D0BlnLfserAXs-14" target="06Yfyso6Ie7ZvUvCbfdn-13" edge="1">
@@ -921,7 +921,7 @@
         <mxCell id="06Yfyso6Ie7ZvUvCbfdn-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="k5NGZF5D0BlnLfserAXs-14" target="06Yfyso6Ie7ZvUvCbfdn-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k5NGZF5D0BlnLfserAXs-14" value="文件系统管理器" style="whiteSpace=wrap;html=1;rounded=0;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="k5NGZF5D0BlnLfserAXs-14" value="文件系统管理" style="whiteSpace=wrap;html=1;rounded=0;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="660" y="223" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="06Yfyso6Ie7ZvUvCbfdn-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="k5NGZF5D0BlnLfserAXs-16" target="06Yfyso6Ie7ZvUvCbfdn-11" edge="1">
@@ -930,7 +930,7 @@
         <mxCell id="06Yfyso6Ie7ZvUvCbfdn-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="k5NGZF5D0BlnLfserAXs-16" target="06Yfyso6Ie7ZvUvCbfdn-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k5NGZF5D0BlnLfserAXs-16" value="云附件处理器" style="whiteSpace=wrap;html=1;rounded=0;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="k5NGZF5D0BlnLfserAXs-16" value="云附件处理" style="whiteSpace=wrap;html=1;rounded=0;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="520" y="223" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="06Yfyso6Ie7ZvUvCbfdn-1" value="连接验证" style="whiteSpace=wrap;html=1;fontSize=14;rounded=0;fillColor=#CCCCCC;strokeColor=#23445d;" parent="1" vertex="1">
