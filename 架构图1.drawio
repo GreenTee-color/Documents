@@ -1775,7 +1775,7 @@
           <mxGeometry x="40" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jId1njquH06eYiEgz01B-10" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="920" y="464" width="376.25" height="316" as="geometry" />
+          <mxGeometry x="925" y="464" width="376.25" height="316" as="geometry" />
         </mxCell>
         <mxCell id="jSQdmpOzJ8iWE9EdFZif-49" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.email_approved;" parent="jId1njquH06eYiEgz01B-10" vertex="1">
           <mxGeometry x="39" y="142.5" width="56" height="46" as="geometry" />
