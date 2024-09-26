@@ -2562,14 +2562,56 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="luQfm4HLlKVFGdnuuhkT-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hftsmd4SVdxU6T6UFzep-1" target="luQfm4HLlKVFGdnuuhkT-1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="luQfm4HLlKVFGdnuuhkT-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hftsmd4SVdxU6T6UFzep-1" target="luQfm4HLlKVFGdnuuhkT-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="luQfm4HLlKVFGdnuuhkT-3" value="收取邮件" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="luQfm4HLlKVFGdnuuhkT-2">
+          <mxGeometry x="-0.3368" relative="1" as="geometry">
+            <mxPoint y="20" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="hftsmd4SVdxU6T6UFzep-1" value="Mail Server" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="120" y="130" width="130" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="luQfm4HLlKVFGdnuuhkT-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="luQfm4HLlKVFGdnuuhkT-1" target="luQfm4HLlKVFGdnuuhkT-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="333" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="luQfm4HLlKVFGdnuuhkT-11" value="请求访问云附件" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="luQfm4HLlKVFGdnuuhkT-9">
+          <mxGeometry x="-0.0382" y="1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="luQfm4HLlKVFGdnuuhkT-1" value="Client" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="250" y="290" width="130" height="50" as="geometry" />
+          <mxGeometry x="120" y="320" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="luQfm4HLlKVFGdnuuhkT-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="luQfm4HLlKVFGdnuuhkT-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="luQfm4HLlKVFGdnuuhkT-5" value="Email" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.email;" vertex="1" parent="1">
+          <mxGeometry x="330" y="210" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="luQfm4HLlKVFGdnuuhkT-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="luQfm4HLlKVFGdnuuhkT-8" target="luQfm4HLlKVFGdnuuhkT-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="358" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="luQfm4HLlKVFGdnuuhkT-12" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;获取云附件数据&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="luQfm4HLlKVFGdnuuhkT-10">
+          <mxGeometry x="0.1655" relative="1" as="geometry">
+            <mxPoint x="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="luQfm4HLlKVFGdnuuhkT-8" value="邮件云服务" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="470" y="320" width="130" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
