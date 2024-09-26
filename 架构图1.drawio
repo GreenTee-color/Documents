@@ -2615,7 +2615,7 @@
             <mxPoint x="15" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="luQfm4HLlKVFGdnuuhkT-8" value="邮件云服务" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="luQfm4HLlKVFGdnuuhkT-8" value="云附件服务" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="470" y="320" width="130" height="50" as="geometry" />
         </mxCell>
       </root>
