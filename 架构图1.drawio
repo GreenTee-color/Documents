@@ -2562,6 +2562,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="luQfm4HLlKVFGdnuuhkT-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hftsmd4SVdxU6T6UFzep-1" target="luQfm4HLlKVFGdnuuhkT-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hftsmd4SVdxU6T6UFzep-1" value="Mail Server" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="120" y="130" width="130" height="50" as="geometry" />
         </mxCell>
