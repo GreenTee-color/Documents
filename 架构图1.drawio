@@ -2899,7 +2899,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l5RHczRE76Wxbr3UXgQW-3" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-570" y="490" width="120" height="100" as="geometry" />
+          <mxGeometry x="-620" y="490" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="l5RHczRE76Wxbr3UXgQW-1" value="云附件服务器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l5RHczRE76Wxbr3UXgQW-3">
           <mxGeometry y="11" width="120" height="40" as="geometry" />
@@ -2908,7 +2908,7 @@
           <mxGeometry x="35" y="50" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="l5RHczRE76Wxbr3UXgQW-4" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-570" y="390" width="120" height="100" as="geometry" />
+          <mxGeometry x="-620" y="390" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="l5RHczRE76Wxbr3UXgQW-5" value="邮件服务器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l5RHczRE76Wxbr3UXgQW-4">
           <mxGeometry y="11" width="120" height="40" as="geometry" />
@@ -2934,24 +2934,26 @@
             <mxPoint x="1220" y="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="l5RHczRE76Wxbr3UXgQW-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;startArrow=blockThin;startFill=1;endArrow=blockThin;endFill=1;endSize=10;startSize=10;" edge="1" parent="1" source="3u6PIl-JW9Rwv3e4JPmu-1" target="l5RHczRE76Wxbr3UXgQW-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-450" y="440" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="l5RHczRE76Wxbr3UXgQW-10" value="&lt;b&gt;IMAP（S）协议&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="l5RHczRE76Wxbr3UXgQW-9">
-          <mxGeometry x="0.0886" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="l5RHczRE76Wxbr3UXgQW-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endSize=10;startSize=10;endArrow=blockThin;endFill=1;startArrow=blockThin;startFill=1;" edge="1" parent="1" source="3u6PIl-JW9Rwv3e4JPmu-10" target="l5RHczRE76Wxbr3UXgQW-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l5RHczRE76Wxbr3UXgQW-12" value="&lt;b&gt;HTTP（S）协议&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="l5RHczRE76Wxbr3UXgQW-11">
           <mxGeometry x="0.1131" y="-2" relative="1" as="geometry">
             <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l5RHczRE76Wxbr3UXgQW-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;endSize=10;startSize=10;startArrow=blockThin;startFill=1;endArrow=blockThin;endFill=1;" edge="1" parent="1" source="3u6PIl-JW9Rwv3e4JPmu-12" target="l5RHczRE76Wxbr3UXgQW-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-480" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-176" y="440" />
+              <mxPoint x="-450" y="441" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l5RHczRE76Wxbr3UXgQW-16" value="&lt;b&gt;IMAP（S）协议&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="l5RHczRE76Wxbr3UXgQW-15">
+          <mxGeometry x="0.123" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
