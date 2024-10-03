@@ -2727,46 +2727,13 @@
           <mxGeometry x="850" y="250" width="1140" height="540" as="geometry" />
         </mxCell>
         <mxCell id="3u6PIl-JW9Rwv3e4JPmu-20" value="基础库及依赖资源" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="-350" y="603" width="1120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="-350" y="130" width="1120" height="99" as="geometry" />
+          <mxGeometry x="-360" y="720" width="1110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3u6PIl-JW9Rwv3e4JPmu-22" value="MDLStore 主程序" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="150" y="70" width="150" height="30" as="geometry" />
+          <mxGeometry x="130" y="90" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-23" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=2;fontSize=13;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="61.75" y="690" as="sourcePoint" />
-            <mxPoint x="808.25" y="690" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-24" value="Windows操作系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="350" y="706" width="166" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-25" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=2;fontSize=13;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="61.75" y="750" as="sourcePoint" />
-            <mxPoint x="808.25" y="750" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-33" value="邮箱账户管理界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-340" y="170" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-34" value="备份任务管理界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-115" y="170" width="415" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-36" value="邮件搜索界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="170" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-37" value="邮件数据浏览界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="553" y="170" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-38" value="图形用户界面" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="145" y="130" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-44" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-290" y="850" width="930" height="100" as="geometry" />
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-44" value="" style="group;dashed=1;dashPattern=12 12;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-260" y="590" width="930" height="100" as="geometry" />
         </mxCell>
         <mxCell id="3u6PIl-JW9Rwv3e4JPmu-41" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="3u6PIl-JW9Rwv3e4JPmu-44">
           <mxGeometry width="930" height="100" as="geometry" />
@@ -2813,10 +2780,13 @@
           <mxGeometry x="356" width="156" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3u6PIl-JW9Rwv3e4JPmu-45" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-340" y="330" width="1093" height="220" as="geometry" />
+          <mxGeometry x="-340" y="330" width="1090" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-46" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="3u6PIl-JW9Rwv3e4JPmu-45">
+          <mxGeometry x="-19.63963963963964" y="-50" width="1109.6396396396397" height="280" as="geometry" />
         </mxCell>
         <mxCell id="3u6PIl-JW9Rwv3e4JPmu-8" value="&lt;p style=&quot;margin: 6px 0px 0px; text-align: center; font-size: 13px;&quot;&gt;&lt;b&gt;邮件数据浏览器&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;border-style: solid; font-size: 13px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 13px;&quot;&gt;实现邮件全文及附件的浏览逻辑&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="3u6PIl-JW9Rwv3e4JPmu-45">
-          <mxGeometry x="893" width="200" height="60" as="geometry" />
+          <mxGeometry x="876.9099099099099" width="196.3963963963964" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3u6PIl-JW9Rwv3e4JPmu-9" value="" style="shape=component;jettyWidth=8;jettyHeight=4;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="3u6PIl-JW9Rwv3e4JPmu-8">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -2824,7 +2794,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3u6PIl-JW9Rwv3e4JPmu-10" value="&lt;p style=&quot;margin: 6px 0px 0px; text-align: center; font-size: 13px;&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;云附件处理器&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;border-style: solid; font-size: 13px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 13px;&quot;&gt;识别、解析、下载云附件&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="3u6PIl-JW9Rwv3e4JPmu-45">
-          <mxGeometry x="445" y="160" width="200" height="60" as="geometry" />
+          <mxGeometry x="436.98198198198196" y="160" width="196.3963963963964" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3u6PIl-JW9Rwv3e4JPmu-11" value="" style="shape=component;jettyWidth=8;jettyHeight=4;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="3u6PIl-JW9Rwv3e4JPmu-10">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -2832,7 +2802,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3u6PIl-JW9Rwv3e4JPmu-12" value="&lt;p style=&quot;margin: 6px 0px 0px; text-align: center; font-size: 13px;&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;IMAP邮件客户端&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;border-style: solid; font-size: 13px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 13px;&quot;&gt;同邮件服务器交互&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="3u6PIl-JW9Rwv3e4JPmu-45">
-          <mxGeometry x="445" y="80" width="200" height="60" as="geometry" />
+          <mxGeometry x="436.98198198198196" y="80" width="196.3963963963964" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3u6PIl-JW9Rwv3e4JPmu-13" value="" style="shape=component;jettyWidth=8;jettyHeight=4;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="3u6PIl-JW9Rwv3e4JPmu-12">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -2840,7 +2810,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3u6PIl-JW9Rwv3e4JPmu-14" value="&lt;p style=&quot;margin: 6px 0px 0px; text-align: center; font-size: 13px;&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;备份任务控制台&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;border-style: solid; font-size: 13px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 13px;&quot;&gt;配置和启动备份任务&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="3u6PIl-JW9Rwv3e4JPmu-45">
-          <mxGeometry x="445" width="200" height="60" as="geometry" />
+          <mxGeometry x="436.98198198198196" width="196.3963963963964" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3u6PIl-JW9Rwv3e4JPmu-15" value="" style="shape=component;jettyWidth=8;jettyHeight=4;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="3u6PIl-JW9Rwv3e4JPmu-14">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -2848,7 +2818,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3u6PIl-JW9Rwv3e4JPmu-16" value="&lt;p style=&quot;margin: 6px 0px 0px; text-align: center; font-size: 13px;&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;全文索引管理器&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;border-style: solid; font-size: 13px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 13px;&quot;&gt;为附件创建索引；提供简单查询&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="3u6PIl-JW9Rwv3e4JPmu-45">
-          <mxGeometry x="670" y="80" width="200" height="60" as="geometry" />
+          <mxGeometry x="657.927927927928" y="80" width="196.3963963963964" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3u6PIl-JW9Rwv3e4JPmu-17" value="" style="shape=component;jettyWidth=8;jettyHeight=4;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="3u6PIl-JW9Rwv3e4JPmu-16">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -2856,7 +2826,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3u6PIl-JW9Rwv3e4JPmu-18" value="&lt;p style=&quot;margin: 6px 0px 0px; text-align: center; font-size: 13px;&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;邮件数据搜索器&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;border-style: solid; font-size: 13px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 13px;&quot;&gt;实现多条件组合搜索邮件数据&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="3u6PIl-JW9Rwv3e4JPmu-45">
-          <mxGeometry x="670" width="200" height="60" as="geometry" />
+          <mxGeometry x="657.927927927928" width="196.3963963963964" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3u6PIl-JW9Rwv3e4JPmu-19" value="" style="shape=component;jettyWidth=8;jettyHeight=4;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="3u6PIl-JW9Rwv3e4JPmu-18">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -2864,7 +2834,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3u6PIl-JW9Rwv3e4JPmu-29" value="&lt;p style=&quot;margin: 6px 0px 0px; text-align: center; font-size: 13px;&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;邮箱账户管理&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;border-style: solid; font-size: 13px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 13px;&quot;&gt;添加和管理邮箱密码（授权码）&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="3u6PIl-JW9Rwv3e4JPmu-45">
-          <mxGeometry width="200" height="60" as="geometry" />
+          <mxGeometry width="196.3963963963964" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3u6PIl-JW9Rwv3e4JPmu-30" value="" style="shape=component;jettyWidth=8;jettyHeight=4;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="3u6PIl-JW9Rwv3e4JPmu-29">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -2872,11 +2842,116 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3u6PIl-JW9Rwv3e4JPmu-31" value="&lt;p style=&quot;margin: 6px 0px 0px; text-align: center; font-size: 13px;&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;备份任务管理&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;border-style: solid; font-size: 13px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 13px;&quot;&gt;创建和指定待执行的备份任务&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="3u6PIl-JW9Rwv3e4JPmu-45">
-          <mxGeometry x="225" width="200" height="60" as="geometry" />
+          <mxGeometry x="220.94594594594594" width="196.3963963963964" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3u6PIl-JW9Rwv3e4JPmu-32" value="" style="shape=component;jettyWidth=8;jettyHeight=4;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="3u6PIl-JW9Rwv3e4JPmu-31">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-47" value="核心功能组件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="142.68" y="282" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-48" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-360" y="161" width="1120" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;" vertex="1" parent="3u6PIl-JW9Rwv3e4JPmu-48">
+          <mxGeometry width="1110" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-33" value="邮箱账户管理界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3u6PIl-JW9Rwv3e4JPmu-48">
+          <mxGeometry x="18" y="40" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-34" value="备份任务管理界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3u6PIl-JW9Rwv3e4JPmu-48">
+          <mxGeometry x="240" y="40" width="415" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-36" value="邮件搜索界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3u6PIl-JW9Rwv3e4JPmu-48">
+          <mxGeometry x="677" y="40" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-37" value="邮件数据浏览界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3u6PIl-JW9Rwv3e4JPmu-48">
+          <mxGeometry x="896" y="40" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-38" value="图形用户界面（GUI）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="3u6PIl-JW9Rwv3e4JPmu-48">
+          <mxGeometry x="495" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="3u6PIl-JW9Rwv3e4JPmu-33" target="3u6PIl-JW9Rwv3e4JPmu-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="3u6PIl-JW9Rwv3e4JPmu-34" target="3u6PIl-JW9Rwv3e4JPmu-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="88" y="310" />
+              <mxPoint x="-21" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="3u6PIl-JW9Rwv3e4JPmu-34" target="3u6PIl-JW9Rwv3e4JPmu-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="88" y="310" />
+              <mxPoint x="195" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="3u6PIl-JW9Rwv3e4JPmu-36" target="3u6PIl-JW9Rwv3e4JPmu-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="3u6PIl-JW9Rwv3e4JPmu-37" target="3u6PIl-JW9Rwv3e4JPmu-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l5RHczRE76Wxbr3UXgQW-3" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-570" y="490" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="l5RHczRE76Wxbr3UXgQW-1" value="云附件服务器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l5RHczRE76Wxbr3UXgQW-3">
+          <mxGeometry y="11" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l5RHczRE76Wxbr3UXgQW-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBoZWlnaHQ9IjIwMCIgd2lkdGg9IjIwMCIgdmVyc2lvbj0iMS4xIiB2aWV3Qm94PSIwIDAgMTAyNCAxMDI0IiBjbGFzcz0iaWNvbiI+PHBhdGggZmlsbD0iIzUxNTE1MSIgZD0iTTgxOS4yIDEyOC45NmgtNzg3LjJ2MTYzLjJoNzg3LjJ2LTE2My4yek0xODQuNjQgMjU1LjY4Yy0yNC45NiAwLTQ1LjYtMjAuMTYtNDUuNi00NS42IDAtMjQuOTYgMjAuNjQtNDUuNiA0NS42LTQ1LjZzNDUuNiAyMC4xNiA0NS42IDQ1LjYtMjAuMTYgNDUuNi00NS42IDQ1LjZ6TTM2NC4xNiA1NzYuOGgtMzMyLjE2djI4OS40NGgzMzMuMTJjLTAuNDgtMi44OC0wLjk2LTYuMjQtMC45Ni05LjZ2LTI3OS44NHpNODE5LjIgMzU0LjU2aC03ODcuMnYxNTkuMzZoMzMyLjE2di0zNi45NmMwLTI0LjQ4IDIwLjE2LTQ0LjY0IDQ0LjY0LTQ0LjY0aDQxMC40di03Ny43NnpNMTg0LjY0IDQ3Ny45MmMtMjQuOTYgMC00NS42LTIwLjE2LTQ1LjYtNDUuNiAwLTI0Ljk2IDIwLjY0LTQ1LjYgNDUuNi00NS42czQ1LjYgMjAuMTYgNDUuNiA0NS42YzAgMjQuOTYtMjAuMTYgNDUuNi00NS42IDQ1LjZ6Ii8+PHBhdGggZmlsbD0iIzUxNTE1MSIgZD0iTTk1My42IDQ5MS44NGgtNDk5LjY4Yy0yMS4xMiAwLTM4LjQgMTcuMjgtMzguNCAzOC40djMyNi40YzAgMjEuMTIgMTcuMjggMzguNCAzOC40IDM4LjRoNDk5LjY4YzIxLjEyIDAgMzguNC0xNy4yOCAzOC40LTM4LjR2LTMyNi40YzAtMjEuNi0xNy4yOC0zOC40LTM4LjQtMzguNHpNODk5LjM2IDYyMi40Yy0xLjQ0IDUuMjgtNC44IDEwLjA4MC05LjYgMTIuNDhsLTE3MS44NCA5OS4zNmMtMy44NCAyLjg4LTguMTYgNC44LTEyLjk2IDQuOGgtMC40OGMtNC44IDAtOS42LTEuNDQtMTIuOTYtNC44bC0xNzEuODQtOTkuMzZjLTQuOC0yLjg4LTguMTYtNy4yLTkuNi0xMi40OC0xLjQ0LTUuMjgtMC40OC0xMS4wNDAgMS45Mi0xNS44NCAzLjg0LTYuNzIgMTAuNTYtMTAuNTYgMTguMjQtMTAuNTYgMy44NCAwIDcuMiAwLjk2IDEwLjU2IDIuODhsMTY0LjE2IDk0LjU2IDE2NC4xNi05NC41NmMzLjM2LTEuOTIgNi43Mi0yLjg4IDEwLjU2LTIuODggNy42OCAwIDE0LjQgMy44NCAxOC4yNCAxMC41NiAxLjkyIDQuOCAyLjg4IDEwLjU2IDEuNDQgMTUuODR6Ii8+PC9zdmc+;" vertex="1" parent="l5RHczRE76Wxbr3UXgQW-3">
+          <mxGeometry x="35" y="50" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="l5RHczRE76Wxbr3UXgQW-4" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-570" y="390" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="l5RHczRE76Wxbr3UXgQW-5" value="邮件服务器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l5RHczRE76Wxbr3UXgQW-4">
+          <mxGeometry y="11" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l5RHczRE76Wxbr3UXgQW-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBoZWlnaHQ9IjIwMCIgd2lkdGg9IjIwMCIgdmVyc2lvbj0iMS4xIiB2aWV3Qm94PSIwIDAgMTAyNCAxMDI0IiBjbGFzcz0iaWNvbiI+PHBhdGggZmlsbD0iIzUxNTE1MSIgZD0iTTgxOS4yIDEyOC45NmgtNzg3LjJ2MTYzLjJoNzg3LjJ2LTE2My4yek0xODQuNjQgMjU1LjY4Yy0yNC45NiAwLTQ1LjYtMjAuMTYtNDUuNi00NS42IDAtMjQuOTYgMjAuNjQtNDUuNiA0NS42LTQ1LjZzNDUuNiAyMC4xNiA0NS42IDQ1LjYtMjAuMTYgNDUuNi00NS42IDQ1LjZ6TTM2NC4xNiA1NzYuOGgtMzMyLjE2djI4OS40NGgzMzMuMTJjLTAuNDgtMi44OC0wLjk2LTYuMjQtMC45Ni05LjZ2LTI3OS44NHpNODE5LjIgMzU0LjU2aC03ODcuMnYxNTkuMzZoMzMyLjE2di0zNi45NmMwLTI0LjQ4IDIwLjE2LTQ0LjY0IDQ0LjY0LTQ0LjY0aDQxMC40di03Ny43NnpNMTg0LjY0IDQ3Ny45MmMtMjQuOTYgMC00NS42LTIwLjE2LTQ1LjYtNDUuNiAwLTI0Ljk2IDIwLjY0LTQ1LjYgNDUuNi00NS42czQ1LjYgMjAuMTYgNDUuNiA0NS42YzAgMjQuOTYtMjAuMTYgNDUuNi00NS42IDQ1LjZ6Ii8+PHBhdGggZmlsbD0iIzUxNTE1MSIgZD0iTTk1My42IDQ5MS44NGgtNDk5LjY4Yy0yMS4xMiAwLTM4LjQgMTcuMjgtMzguNCAzOC40djMyNi40YzAgMjEuMTIgMTcuMjggMzguNCAzOC40IDM4LjRoNDk5LjY4YzIxLjEyIDAgMzguNC0xNy4yOCAzOC40LTM4LjR2LTMyNi40YzAtMjEuNi0xNy4yOC0zOC40LTM4LjQtMzguNHpNODk5LjM2IDYyMi40Yy0xLjQ0IDUuMjgtNC44IDEwLjA4MC05LjYgMTIuNDhsLTE3MS44NCA5OS4zNmMtMy44NCAyLjg4LTguMTYgNC44LTEyLjk2IDQuOGgtMC40OGMtNC44IDAtOS42LTEuNDQtMTIuOTYtNC44bC0xNzEuODQtOTkuMzZjLTQuOC0yLjg4LTguMTYtNy4yLTkuNi0xMi40OC0xLjQ0LTUuMjgtMC40OC0xMS4wNDAgMS45Mi0xNS44NCAzLjg0LTYuNzIgMTAuNTYtMTAuNTYgMTguMjQtMTAuNTYgMy44NCAwIDcuMiAwLjk2IDEwLjU2IDIuODhsMTY0LjE2IDk0LjU2IDE2NC4xNi05NC41NmMzLjM2LTEuOTIgNi43Mi0yLjg4IDEwLjU2LTIuODggNy42OCAwIDE0LjQgMy44NCAxOC4yNCAxMC41NiAxLjkyIDQuOCAyLjg4IDEwLjU2IDEuNDQgMTUuODR6Ii8+PC9zdmc+;" vertex="1" parent="l5RHczRE76Wxbr3UXgQW-4">
+          <mxGeometry x="35" y="50" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="l5RHczRE76Wxbr3UXgQW-7" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-420" y="820" width="1220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-23" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=2;fontSize=13;" edge="1" parent="l5RHczRE76Wxbr3UXgQW-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint as="sourcePoint" />
+            <mxPoint x="1220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-24" value="Windows操作系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="l5RHczRE76Wxbr3UXgQW-7">
+          <mxGeometry x="471.0850636302746" y="16" width="271.29269926322837" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-25" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=2;fontSize=13;" edge="1" parent="l5RHczRE76Wxbr3UXgQW-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="60" as="sourcePoint" />
+            <mxPoint x="1220" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l5RHczRE76Wxbr3UXgQW-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;startArrow=blockThin;startFill=1;endArrow=blockThin;endFill=1;endSize=10;startSize=10;" edge="1" parent="1" source="3u6PIl-JW9Rwv3e4JPmu-12" target="l5RHczRE76Wxbr3UXgQW-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-450" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l5RHczRE76Wxbr3UXgQW-10" value="&lt;b&gt;IMAP（S）协议&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="l5RHczRE76Wxbr3UXgQW-9">
+          <mxGeometry x="0.0886" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l5RHczRE76Wxbr3UXgQW-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endSize=10;startSize=10;endArrow=blockThin;endFill=1;startArrow=blockThin;startFill=1;" edge="1" parent="1" source="3u6PIl-JW9Rwv3e4JPmu-10" target="l5RHczRE76Wxbr3UXgQW-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l5RHczRE76Wxbr3UXgQW-12" value="&lt;b&gt;HTTP（S）协议&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="l5RHczRE76Wxbr3UXgQW-11">
+          <mxGeometry x="0.1131" y="-2" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
