@@ -2724,7 +2724,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="3u6PIl-JW9Rwv3e4JPmu-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="-360" y="30" width="1170" height="630" as="geometry" />
+          <mxGeometry x="-360" y="30" width="1140" height="630" as="geometry" />
         </mxCell>
         <mxCell id="3u6PIl-JW9Rwv3e4JPmu-2" value="&lt;p style=&quot;margin: 6px 0px 0px; text-align: center; font-size: 13px;&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;数据库管理器&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;border-style: solid; font-size: 13px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 13px;&quot;&gt;配置数据库；处理增删改查操作&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="105" y="490" width="200" height="60" as="geometry" />
@@ -2735,7 +2735,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3u6PIl-JW9Rwv3e4JPmu-4" value="&lt;p style=&quot;margin: 6px 0px 0px; text-align: center; font-size: 13px;&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;文件系统管理器&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;border-style: solid; font-size: 13px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 13px;&quot;&gt;管理文件夹结构；操作文件&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="585" y="490" width="200" height="60" as="geometry" />
+          <mxGeometry x="553" y="490" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3u6PIl-JW9Rwv3e4JPmu-5" value="" style="shape=component;jettyWidth=8;jettyHeight=4;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="3u6PIl-JW9Rwv3e4JPmu-4">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -2799,7 +2799,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3u6PIl-JW9Rwv3e4JPmu-20" value="基础库及依赖资源" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="-340" y="586" width="1126.5" height="50" as="geometry" />
+          <mxGeometry x="-350" y="585" width="1120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3u6PIl-JW9Rwv3e4JPmu-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="-350" y="130" width="1120" height="99" as="geometry" />
