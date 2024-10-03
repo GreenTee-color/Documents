@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="24.7.17" pages="17">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="24.7.17" pages="18">
   <diagram name="第 1 页" id="KcgZMIl5eJW6m7BrYvfu">
     <mxGraphModel dx="1877" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2713,6 +2713,121 @@
         <mxCell id="XDcju7yXO12vF0RYXcaD-23" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;云附件链接&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="XDcju7yXO12vF0RYXcaD-17">
           <mxGeometry x="-0.12" y="-1" relative="1" as="geometry">
             <mxPoint x="5" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="xaoWPCc4iZFVMH0TJoAm" name="第 18 页">
+    <mxGraphModel dx="1050" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="60" y="140" width="750" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-2" value="&lt;p style=&quot;margin: 6px 0px 0px; text-align: center; font-size: 13px;&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;数据库管理器&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;border-style: solid; font-size: 13px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 13px;&quot;&gt;配置数据库；处理增删改查操作&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="90" y="510" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-3" value="" style="shape=component;jettyWidth=8;jettyHeight=4;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="3u6PIl-JW9Rwv3e4JPmu-2">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-4" value="&lt;p style=&quot;margin: 6px 0px 0px; text-align: center; font-size: 13px;&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;文件系统管理器&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;border-style: solid; font-size: 13px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 13px;&quot;&gt;管理文件夹结构；操作文件&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="585" y="510" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-5" value="" style="shape=component;jettyWidth=8;jettyHeight=4;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="3u6PIl-JW9Rwv3e4JPmu-4">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-6" value="&lt;p style=&quot;margin: 6px 0px 0px; text-align: center; font-size: 13px;&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;邮件数据解析器&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;border-style: solid; font-size: 13px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 13px;&quot;&gt;解码邮件内容&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="600" y="360" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-7" value="" style="shape=component;jettyWidth=8;jettyHeight=4;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="3u6PIl-JW9Rwv3e4JPmu-6">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-8" value="&lt;p style=&quot;margin: 6px 0px 0px; text-align: center; font-size: 13px;&quot;&gt;&lt;b&gt;邮件数据浏览器&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;border-style: solid; font-size: 13px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 13px;&quot;&gt;实现邮件全文及附件的浏览逻辑&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="585" y="250" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-9" value="" style="shape=component;jettyWidth=8;jettyHeight=4;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="3u6PIl-JW9Rwv3e4JPmu-8">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-10" value="&lt;p style=&quot;margin: 6px 0px 0px; text-align: center; font-size: 13px;&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;云附件处理器&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;border-style: solid; font-size: 13px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 13px;&quot;&gt;识别、解析、下载云附件&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="86.5" y="430" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-11" value="" style="shape=component;jettyWidth=8;jettyHeight=4;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="3u6PIl-JW9Rwv3e4JPmu-10">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-12" value="&lt;p style=&quot;margin: 6px 0px 0px; text-align: center; font-size: 13px;&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;IMAP邮件客户端&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;border-style: solid; font-size: 13px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 13px;&quot;&gt;同邮件服务器交互&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="86.5" y="340" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-13" value="" style="shape=component;jettyWidth=8;jettyHeight=4;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="3u6PIl-JW9Rwv3e4JPmu-12">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-14" value="&lt;p style=&quot;margin: 6px 0px 0px; text-align: center; font-size: 13px;&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;备份任务控制台&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;border-style: solid; font-size: 13px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 13px;&quot;&gt;配置和启动备份任务&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="85" y="250" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-15" value="" style="shape=component;jettyWidth=8;jettyHeight=4;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="3u6PIl-JW9Rwv3e4JPmu-14">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-16" value="&lt;p style=&quot;margin: 6px 0px 0px; text-align: center; font-size: 13px;&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;全文索引管理器&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;border-style: solid; font-size: 13px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 13px;&quot;&gt;为附件创建索引；提供简单查询&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="333" y="340" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-17" value="" style="shape=component;jettyWidth=8;jettyHeight=4;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="3u6PIl-JW9Rwv3e4JPmu-16">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-18" value="&lt;p style=&quot;margin: 6px 0px 0px; text-align: center; font-size: 13px;&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;邮件数据搜索器&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;border-style: solid; font-size: 13px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 13px;&quot;&gt;实现多条件组合搜索邮件数据&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="336.5" y="250" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-19" value="" style="shape=component;jettyWidth=8;jettyHeight=4;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="3u6PIl-JW9Rwv3e4JPmu-18">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-20" value="基础库和第三方工具包" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="86.5" y="586" width="700" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-21" value="图形用户界面（GUI）" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="85" y="179" width="700" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-22" value="MDLStore 主程序" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="360" y="144" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-23" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=2;fontSize=13;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="61.75" y="690" as="sourcePoint" />
+            <mxPoint x="808.25" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-24" value="Windows操作系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="350" y="706" width="166" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-25" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=2;fontSize=13;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="61.75" y="750" as="sourcePoint" />
+            <mxPoint x="808.25" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-27" value="&lt;p style=&quot;margin: 6px 0px 0px; text-align: center; font-size: 13px;&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;存储设备管理器&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;border-style: solid; font-size: 13px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 13px;&quot;&gt;获取存储设备信息，切换磁盘&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="330" y="510" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-28" value="" style="shape=component;jettyWidth=8;jettyHeight=4;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="3u6PIl-JW9Rwv3e4JPmu-27">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
