@@ -2719,12 +2719,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xaoWPCc4iZFVMH0TJoAm" name="第 18 页">
-    <mxGraphModel dx="1050" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1877" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="3u6PIl-JW9Rwv3e4JPmu-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="60" y="140" width="750" height="520" as="geometry" />
+          <mxGeometry x="-240" y="140" width="1050" height="520" as="geometry" />
         </mxCell>
         <mxCell id="3u6PIl-JW9Rwv3e4JPmu-2" value="&lt;p style=&quot;margin: 6px 0px 0px; text-align: center; font-size: 13px;&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;数据库管理器&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;border-style: solid; font-size: 13px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 13px;&quot;&gt;配置数据库；处理增删改查操作&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="85" y="490" width="200" height="60" as="geometry" />
@@ -2826,6 +2826,22 @@
           <mxGeometry x="335" y="490" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3u6PIl-JW9Rwv3e4JPmu-28" value="" style="shape=component;jettyWidth=8;jettyHeight=4;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="3u6PIl-JW9Rwv3e4JPmu-27">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-29" value="&lt;p style=&quot;margin: 6px 0px 0px; text-align: center; font-size: 13px;&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;邮箱账户管理&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;border-style: solid; font-size: 13px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 13px;&quot;&gt;添加和管理邮箱密码（授权码）&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="250" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-30" value="" style="shape=component;jettyWidth=8;jettyHeight=4;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="3u6PIl-JW9Rwv3e4JPmu-29">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-31" value="&lt;p style=&quot;margin: 6px 0px 0px; text-align: center; font-size: 13px;&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;备份任务管理&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;border-style: solid; font-size: 13px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 13px;&quot;&gt;创建和指定待执行的备份任务&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="330" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-32" value="" style="shape=component;jettyWidth=8;jettyHeight=4;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="3u6PIl-JW9Rwv3e4JPmu-31">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-24" y="4" as="offset" />
           </mxGeometry>
