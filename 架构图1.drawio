@@ -2723,59 +2723,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-41" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-260" y="500" width="930" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="3u6PIl-JW9Rwv3e4JPmu-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="850" y="250" width="1140" height="540" as="geometry" />
-        </mxCell>
-        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-8" value="&lt;p style=&quot;margin: 6px 0px 0px; text-align: center; font-size: 13px;&quot;&gt;&lt;b&gt;邮件数据浏览器&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;border-style: solid; font-size: 13px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 13px;&quot;&gt;实现邮件全文及附件的浏览逻辑&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="553" y="250" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-9" value="" style="shape=component;jettyWidth=8;jettyHeight=4;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="3u6PIl-JW9Rwv3e4JPmu-8">
-          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
-            <mxPoint x="-24" y="4" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-10" value="&lt;p style=&quot;margin: 6px 0px 0px; text-align: center; font-size: 13px;&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;云附件处理器&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;border-style: solid; font-size: 13px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 13px;&quot;&gt;识别、解析、下载云附件&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="105" y="410" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-11" value="" style="shape=component;jettyWidth=8;jettyHeight=4;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="3u6PIl-JW9Rwv3e4JPmu-10">
-          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
-            <mxPoint x="-24" y="4" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-12" value="&lt;p style=&quot;margin: 6px 0px 0px; text-align: center; font-size: 13px;&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;IMAP邮件客户端&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;border-style: solid; font-size: 13px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 13px;&quot;&gt;同邮件服务器交互&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="105" y="330" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-13" value="" style="shape=component;jettyWidth=8;jettyHeight=4;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="3u6PIl-JW9Rwv3e4JPmu-12">
-          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
-            <mxPoint x="-24" y="4" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-14" value="&lt;p style=&quot;margin: 6px 0px 0px; text-align: center; font-size: 13px;&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;备份任务控制台&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;border-style: solid; font-size: 13px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 13px;&quot;&gt;配置和启动备份任务&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="105" y="250" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-15" value="" style="shape=component;jettyWidth=8;jettyHeight=4;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="3u6PIl-JW9Rwv3e4JPmu-14">
-          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
-            <mxPoint x="-24" y="4" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-16" value="&lt;p style=&quot;margin: 6px 0px 0px; text-align: center; font-size: 13px;&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;全文索引管理器&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;border-style: solid; font-size: 13px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 13px;&quot;&gt;为附件创建索引；提供简单查询&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="330" y="330" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-17" value="" style="shape=component;jettyWidth=8;jettyHeight=4;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="3u6PIl-JW9Rwv3e4JPmu-16">
-          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
-            <mxPoint x="-24" y="4" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-18" value="&lt;p style=&quot;margin: 6px 0px 0px; text-align: center; font-size: 13px;&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;邮件数据搜索器&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;border-style: solid; font-size: 13px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 13px;&quot;&gt;实现多条件组合搜索邮件数据&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="330" y="250" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-19" value="" style="shape=component;jettyWidth=8;jettyHeight=4;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="3u6PIl-JW9Rwv3e4JPmu-18">
-          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
-            <mxPoint x="-24" y="4" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="3u6PIl-JW9Rwv3e4JPmu-20" value="基础库及依赖资源" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="-350" y="603" width="1120" height="50" as="geometry" />
@@ -2801,39 +2750,29 @@
             <mxPoint x="808.25" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-29" value="&lt;p style=&quot;margin: 6px 0px 0px; text-align: center; font-size: 13px;&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;邮箱账户管理&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;border-style: solid; font-size: 13px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 13px;&quot;&gt;添加和管理邮箱密码（授权码）&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="-340" y="250" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-30" value="" style="shape=component;jettyWidth=8;jettyHeight=4;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="3u6PIl-JW9Rwv3e4JPmu-29">
-          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
-            <mxPoint x="-24" y="4" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-31" value="&lt;p style=&quot;margin: 6px 0px 0px; text-align: center; font-size: 13px;&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;备份任务管理&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;border-style: solid; font-size: 13px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 13px;&quot;&gt;创建和指定待执行的备份任务&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="-115" y="250" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-32" value="" style="shape=component;jettyWidth=8;jettyHeight=4;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="3u6PIl-JW9Rwv3e4JPmu-31">
-          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
-            <mxPoint x="-24" y="4" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-33" value="邮箱账户管理界面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-33" value="邮箱账户管理界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-340" y="170" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-34" value="备份任务管理界面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-34" value="备份任务管理界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-115" y="170" width="415" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-36" value="邮件搜索界面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-36" value="邮件搜索界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="170" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-37" value="邮件数据浏览界面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-37" value="邮件数据浏览界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="553" y="170" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3u6PIl-JW9Rwv3e4JPmu-38" value="图形用户界面" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="145" y="130" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-43" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-230" y="502" width="868" height="90" as="geometry" />
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-44" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-290" y="850" width="930" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-41" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="3u6PIl-JW9Rwv3e4JPmu-44">
+          <mxGeometry width="930" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-43" value="" style="group" vertex="1" connectable="0" parent="3u6PIl-JW9Rwv3e4JPmu-44">
+          <mxGeometry x="30" y="2" width="868" height="90" as="geometry" />
         </mxCell>
         <mxCell id="3u6PIl-JW9Rwv3e4JPmu-40" value="" style="group" vertex="1" connectable="0" parent="3u6PIl-JW9Rwv3e4JPmu-43">
           <mxGeometry y="30" width="868" height="60" as="geometry" />
@@ -2872,6 +2811,73 @@
         </mxCell>
         <mxCell id="3u6PIl-JW9Rwv3e4JPmu-42" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;复用基础组件&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="3u6PIl-JW9Rwv3e4JPmu-43">
           <mxGeometry x="356" width="156" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-45" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-340" y="330" width="1093" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-8" value="&lt;p style=&quot;margin: 6px 0px 0px; text-align: center; font-size: 13px;&quot;&gt;&lt;b&gt;邮件数据浏览器&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;border-style: solid; font-size: 13px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 13px;&quot;&gt;实现邮件全文及附件的浏览逻辑&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="3u6PIl-JW9Rwv3e4JPmu-45">
+          <mxGeometry x="893" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-9" value="" style="shape=component;jettyWidth=8;jettyHeight=4;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="3u6PIl-JW9Rwv3e4JPmu-8">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-10" value="&lt;p style=&quot;margin: 6px 0px 0px; text-align: center; font-size: 13px;&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;云附件处理器&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;border-style: solid; font-size: 13px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 13px;&quot;&gt;识别、解析、下载云附件&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="3u6PIl-JW9Rwv3e4JPmu-45">
+          <mxGeometry x="445" y="160" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-11" value="" style="shape=component;jettyWidth=8;jettyHeight=4;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="3u6PIl-JW9Rwv3e4JPmu-10">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-12" value="&lt;p style=&quot;margin: 6px 0px 0px; text-align: center; font-size: 13px;&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;IMAP邮件客户端&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;border-style: solid; font-size: 13px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 13px;&quot;&gt;同邮件服务器交互&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="3u6PIl-JW9Rwv3e4JPmu-45">
+          <mxGeometry x="445" y="80" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-13" value="" style="shape=component;jettyWidth=8;jettyHeight=4;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="3u6PIl-JW9Rwv3e4JPmu-12">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-14" value="&lt;p style=&quot;margin: 6px 0px 0px; text-align: center; font-size: 13px;&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;备份任务控制台&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;border-style: solid; font-size: 13px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 13px;&quot;&gt;配置和启动备份任务&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="3u6PIl-JW9Rwv3e4JPmu-45">
+          <mxGeometry x="445" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-15" value="" style="shape=component;jettyWidth=8;jettyHeight=4;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="3u6PIl-JW9Rwv3e4JPmu-14">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-16" value="&lt;p style=&quot;margin: 6px 0px 0px; text-align: center; font-size: 13px;&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;全文索引管理器&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;border-style: solid; font-size: 13px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 13px;&quot;&gt;为附件创建索引；提供简单查询&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="3u6PIl-JW9Rwv3e4JPmu-45">
+          <mxGeometry x="670" y="80" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-17" value="" style="shape=component;jettyWidth=8;jettyHeight=4;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="3u6PIl-JW9Rwv3e4JPmu-16">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-18" value="&lt;p style=&quot;margin: 6px 0px 0px; text-align: center; font-size: 13px;&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;邮件数据搜索器&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;border-style: solid; font-size: 13px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 13px;&quot;&gt;实现多条件组合搜索邮件数据&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="3u6PIl-JW9Rwv3e4JPmu-45">
+          <mxGeometry x="670" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-19" value="" style="shape=component;jettyWidth=8;jettyHeight=4;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="3u6PIl-JW9Rwv3e4JPmu-18">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-29" value="&lt;p style=&quot;margin: 6px 0px 0px; text-align: center; font-size: 13px;&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;邮箱账户管理&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;border-style: solid; font-size: 13px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 13px;&quot;&gt;添加和管理邮箱密码（授权码）&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="3u6PIl-JW9Rwv3e4JPmu-45">
+          <mxGeometry width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-30" value="" style="shape=component;jettyWidth=8;jettyHeight=4;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="3u6PIl-JW9Rwv3e4JPmu-29">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-31" value="&lt;p style=&quot;margin: 6px 0px 0px; text-align: center; font-size: 13px;&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;备份任务管理&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;border-style: solid; font-size: 13px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 13px;&quot;&gt;创建和指定待执行的备份任务&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="3u6PIl-JW9Rwv3e4JPmu-45">
+          <mxGeometry x="225" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-32" value="" style="shape=component;jettyWidth=8;jettyHeight=4;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="3u6PIl-JW9Rwv3e4JPmu-31">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
