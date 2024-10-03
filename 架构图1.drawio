@@ -2726,7 +2726,7 @@
         <mxCell id="3u6PIl-JW9Rwv3e4JPmu-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="-386" y="130" width="1170" height="870" as="geometry" />
         </mxCell>
-        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-20" value="基础库及依赖资源" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=22;fontColor=#CC0066;" vertex="1" parent="1">
+        <mxCell id="3u6PIl-JW9Rwv3e4JPmu-20" value="依赖库及资源" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=22;fontColor=#CC0066;" vertex="1" parent="1">
           <mxGeometry x="-356" y="930" width="1110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3u6PIl-JW9Rwv3e4JPmu-22" value="MDLStore 主程序" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;fontColor=#66B2FF;" vertex="1" parent="1">
