@@ -2967,13 +2967,13 @@
         <mxCell id="cYs410anECZw9PL7eiE9-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#A8CAE8;strokeWidth=2;" edge="1" parent="1" source="cYs410anECZw9PL7eiE9-2" target="cYs410anECZw9PL7eiE9-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cYs410anECZw9PL7eiE9-25" value="查询索引库" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cYs410anECZw9PL7eiE9-17">
+        <mxCell id="cYs410anECZw9PL7eiE9-25" value="查询索引库" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#719ec8;fontStyle=1;fontSize=13;" vertex="1" connectable="0" parent="cYs410anECZw9PL7eiE9-17">
           <mxGeometry x="0.48" y="3" relative="1" as="geometry">
             <mxPoint y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cYs410anECZw9PL7eiE9-2" value="索引库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#5b9bd5;strokeColor=#FFFFFF;fontColor=#FFFFFF;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="380" y="515" width="110" height="70" as="geometry" />
+          <mxGeometry x="372" y="515" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="cYs410anECZw9PL7eiE9-6" value="IndexWriter" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00b0f0;fontColor=#FFFFFF;fontSize=16;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="165" y="410" width="120" height="60" as="geometry" />
@@ -2997,7 +2997,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cYs410anECZw9PL7eiE9-24" value="写入索引库" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cYs410anECZw9PL7eiE9-16">
+        <mxCell id="cYs410anECZw9PL7eiE9-24" value="写入索引库" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#719ec8;fontStyle=1;fontSize=13;" vertex="1" connectable="0" parent="cYs410anECZw9PL7eiE9-16">
           <mxGeometry x="-0.5149" y="-1" relative="1" as="geometry">
             <mxPoint y="-12" as="offset" />
           </mxGeometry>
@@ -3007,7 +3007,7 @@
             <mxPoint x="610" y="320" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cYs410anECZw9PL7eiE9-22" value="查询短语" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cYs410anECZw9PL7eiE9-18">
+        <mxCell id="cYs410anECZw9PL7eiE9-22" value="查询短语" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#719ec8;fontStyle=1;fontSize=13;" vertex="1" connectable="0" parent="cYs410anECZw9PL7eiE9-18">
           <mxGeometry x="-0.0498" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -3030,7 +3030,7 @@
         <mxCell id="cYs410anECZw9PL7eiE9-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#A8CAE8;strokeWidth=2;" edge="1" parent="1" source="cYs410anECZw9PL7eiE9-3" target="cYs410anECZw9PL7eiE9-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cYs410anECZw9PL7eiE9-23" value="新增文档" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cYs410anECZw9PL7eiE9-21">
+        <mxCell id="cYs410anECZw9PL7eiE9-23" value="新增文档" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#719ec8;fontStyle=1;fontSize=13;" vertex="1" connectable="0" parent="cYs410anECZw9PL7eiE9-21">
           <mxGeometry y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
