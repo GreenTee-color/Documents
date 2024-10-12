@@ -3312,7 +3312,7 @@
             <mxPoint x="754.9999999999998" y="681.0000610351562" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BpzfLaG5bM0yxC7Eir5Q-35" value="邮件服务器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="BpzfLaG5bM0yxC7Eir5Q-35" value="云附件服务器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="690" y="180" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BpzfLaG5bM0yxC7Eir5Q-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="BpzfLaG5bM0yxC7Eir5Q-35" target="BpzfLaG5bM0yxC7Eir5Q-37">
