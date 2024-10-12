@@ -3117,13 +3117,24 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VX3Xn6VjcT4-Ef1aaKu4-44" value="IMAP数据获取请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VX3Xn6VjcT4-Ef1aaKu4-43">
+        <mxCell id="VX3Xn6VjcT4-Ef1aaKu4-44" value="IMAP Fetch 获取请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VX3Xn6VjcT4-Ef1aaKu4-43">
           <mxGeometry x="0.2538" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="33" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VX3Xn6VjcT4-Ef1aaKu4-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="475" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VX3Xn6VjcT4-Ef1aaKu4-46" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="389" y="520" as="targetPoint" />
+            <mxPoint x="129" y="520" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VX3Xn6VjcT4-Ef1aaKu4-47" value="返回邮件全文" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VX3Xn6VjcT4-Ef1aaKu4-46">
+          <mxGeometry x="0.1462" y="1" relative="1" as="geometry">
+            <mxPoint x="-19" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
