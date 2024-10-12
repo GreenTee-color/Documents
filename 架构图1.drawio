@@ -3061,19 +3061,49 @@
           <mxGeometry x="330" y="180" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VX3Xn6VjcT4-Ef1aaKu4-16" value="&lt;div&gt;邮箱文件夹&lt;/div&gt;&lt;div&gt;收件日期区间&lt;/div&gt;&lt;div&gt;联系人&lt;/div&gt;&lt;div&gt;邮件主题&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="530" y="262.5" width="90" height="80" as="geometry" />
+          <mxGeometry x="534" y="245" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VX3Xn6VjcT4-Ef1aaKu4-17" value="1.解析备份任务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="410" y="287.5" width="105" height="30" as="geometry" />
+          <mxGeometry x="414" y="270" width="105" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VX3Xn6VjcT4-Ef1aaKu4-18" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="130" y="420" as="sourcePoint" />
-            <mxPoint x="390" y="420" as="targetPoint" />
+        <mxCell id="VX3Xn6VjcT4-Ef1aaKu4-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VX3Xn6VjcT4-Ef1aaKu4-28" target="VX3Xn6VjcT4-Ef1aaKu4-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="395" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VX3Xn6VjcT4-Ef1aaKu4-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="260" width="10" height="85" as="geometry" />
+          <mxGeometry x="390" y="260" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VX3Xn6VjcT4-Ef1aaKu4-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VX3Xn6VjcT4-Ef1aaKu4-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="390" y="360" />
+              <mxPoint x="390" y="361" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VX3Xn6VjcT4-Ef1aaKu4-33" value="IMAP日期检索请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VX3Xn6VjcT4-Ef1aaKu4-32">
+          <mxGeometry x="0.1462" y="1" relative="1" as="geometry">
+            <mxPoint x="19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VX3Xn6VjcT4-Ef1aaKu4-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="350" width="10" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="VX3Xn6VjcT4-Ef1aaKu4-34" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="VX3Xn6VjcT4-Ef1aaKu4-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="428" as="targetPoint" />
+            <mxPoint x="130" y="414" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VX3Xn6VjcT4-Ef1aaKu4-35" value="返回邮件ID列表" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VX3Xn6VjcT4-Ef1aaKu4-34">
+          <mxGeometry x="0.1462" y="1" relative="1" as="geometry">
+            <mxPoint x="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VX3Xn6VjcT4-Ef1aaKu4-38" value="2.根据日期字段&lt;div&gt;检索数据&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="414" y="377.5" width="105" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
