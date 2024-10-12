@@ -3160,7 +3160,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ff1J004WKzWVfMoP_Nuf" name="第 21 页">
-    <mxGraphModel dx="656" dy="353" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1105" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3292,11 +3292,43 @@
         <mxCell id="BpzfLaG5bM0yxC7Eir5Q-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="560" width="10" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="BpzfLaG5bM0yxC7Eir5Q-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="BpzfLaG5bM0yxC7Eir5Q-30" target="BpzfLaG5bM0yxC7Eir5Q-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="573" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="BpzfLaG5bM0yxC7Eir5Q-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="560" width="10" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BpzfLaG5bM0yxC7Eir5Q-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="560" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BpzfLaG5bM0yxC7Eir5Q-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BpzfLaG5bM0yxC7Eir5Q-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="754.9999999999998" y="681.0000610351562" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BpzfLaG5bM0yxC7Eir5Q-35" value="邮件服务器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="690" y="180" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BpzfLaG5bM0yxC7Eir5Q-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BpzfLaG5bM0yxC7Eir5Q-35" target="BpzfLaG5bM0yxC7Eir5Q-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="754.9999999999998" y="681.0000610351562" as="targetPoint" />
+            <mxPoint x="755" y="230" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BpzfLaG5bM0yxC7Eir5Q-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BpzfLaG5bM0yxC7Eir5Q-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="610" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BpzfLaG5bM0yxC7Eir5Q-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="560" width="10" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
