@@ -3334,10 +3334,10 @@
         <mxCell id="BpzfLaG5bM0yxC7Eir5Q-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="577" y="556" width="10" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BpzfLaG5bM0yxC7Eir5Q-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=-0.208;entryY=0.787;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BpzfLaG5bM0yxC7Eir5Q-37" target="BpzfLaG5bM0yxC7Eir5Q-30">
+        <mxCell id="BpzfLaG5bM0yxC7Eir5Q-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=-0.208;entryY=0.787;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="20" y="684.63" as="sourcePoint" />
-            <mxPoint x="336" y="586" as="targetPoint" />
+            <mxPoint x="30" y="602.5" as="sourcePoint" />
+            <mxPoint x="364.9200000000003" y="602.35" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
@@ -3357,14 +3357,14 @@
         <mxCell id="BpzfLaG5bM0yxC7Eir5Q-49" value="5.存储和管理备份数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="520" y="661" width="157" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BpzfLaG5bM0yxC7Eir5Q-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;endArrow=open;endFill=0;exitX=0;exitY=0.3;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="BpzfLaG5bM0yxC7Eir5Q-30" target="BpzfLaG5bM0yxC7Eir5Q-37">
+        <mxCell id="BpzfLaG5bM0yxC7Eir5Q-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;endArrow=open;endFill=0;exitX=0;exitY=0.3;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="330" y="560" as="sourcePoint" />
-            <mxPoint x="-140" y="560.5" as="targetPoint" />
+            <mxPoint x="367" y="564.0000000000001" as="sourcePoint" />
+            <mxPoint x="30" y="563.5" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BpzfLaG5bM0yxC7Eir5Q-41" value="请求云附件" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BpzfLaG5bM0yxC7Eir5Q-39">
+        <mxCell id="BpzfLaG5bM0yxC7Eir5Q-41" value="HTTP（S）请求云附件" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BpzfLaG5bM0yxC7Eir5Q-39">
           <mxGeometry x="-0.1126" relative="1" as="geometry">
             <mxPoint x="-18" as="offset" />
           </mxGeometry>
@@ -3397,6 +3397,9 @@
         </mxCell>
         <mxCell id="BpzfLaG5bM0yxC7Eir5Q-61" value="4.获取邮件数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="630" y="566" width="157" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b_r2Y-hpY4an1twhv4oQ-2" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;·&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;···&lt;/span&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;··其他请求&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;···&lt;/span&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;···&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="80" y="568" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
