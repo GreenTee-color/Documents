@@ -3147,11 +3147,14 @@
         </mxCell>
         <mxCell id="VX3Xn6VjcT4-Ef1aaKu4-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="VX3Xn6VjcT4-Ef1aaKu4-54">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="125" y="550" as="targetPoint" />
+            <mxPoint x="125" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VX3Xn6VjcT4-Ef1aaKu4-54" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="435" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VX3Xn6VjcT4-Ef1aaKu4-60" value="等待&lt;b&gt;···&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="540" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
