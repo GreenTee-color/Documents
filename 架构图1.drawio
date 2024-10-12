@@ -3160,7 +3160,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ff1J004WKzWVfMoP_Nuf" name="第 21 页">
-    <mxGraphModel dx="1105" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="656" dy="353" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3331,6 +3331,15 @@
         </mxCell>
         <mxCell id="BpzfLaG5bM0yxC7Eir5Q-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="560" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BpzfLaG5bM0yxC7Eir5Q-42" value="备份&lt;div&gt;邮件全文&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="570" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BpzfLaG5bM0yxC7Eir5Q-43" value="备份&lt;div&gt;直接附件&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="395" y="570" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BpzfLaG5bM0yxC7Eir5Q-44" value="备份&lt;div&gt;云附件&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="570" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
