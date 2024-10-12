@@ -3209,7 +3209,7 @@
             <mxPoint x="-19" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BpzfLaG5bM0yxC7Eir5Q-11" value="1.根据日期字段&lt;span style=&quot;background-color: initial;&quot;&gt;检索数据&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="BpzfLaG5bM0yxC7Eir5Q-11" value="1.根据日期字段&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;检索数据&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="491" y="268" width="206" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BpzfLaG5bM0yxC7Eir5Q-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=-0.118;exitY=0.12;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.983;entryY=0.208;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=open;endFill=0;" edge="1" parent="1" target="BpzfLaG5bM0yxC7Eir5Q-25">
@@ -3251,10 +3251,10 @@
         <mxCell id="BpzfLaG5bM0yxC7Eir5Q-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="428" width="10" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BpzfLaG5bM0yxC7Eir5Q-20" value="2.下载对应&lt;span style=&quot;background-color: initial;&quot;&gt;邮件全文&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="494" y="353" width="117" height="30" as="geometry" />
+        <mxCell id="BpzfLaG5bM0yxC7Eir5Q-20" value="2.下载对应&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;邮件全文&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="494" y="353" width="166" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BpzfLaG5bM0yxC7Eir5Q-21" value="3.解析邮件内容根据其他条件二次筛选" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="BpzfLaG5bM0yxC7Eir5Q-21" value="3.解析邮件内容根据其他条件二次筛选" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="491" y="438" width="226" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BpzfLaG5bM0yxC7Eir5Q-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="BpzfLaG5bM0yxC7Eir5Q-23" target="BpzfLaG5bM0yxC7Eir5Q-25">
@@ -3375,8 +3375,8 @@
         <mxCell id="BpzfLaG5bM0yxC7Eir5Q-46" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="660" width="10" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BpzfLaG5bM0yxC7Eir5Q-49" value="存储备份数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="494" y="670" width="76" height="30" as="geometry" />
+        <mxCell id="BpzfLaG5bM0yxC7Eir5Q-49" value="存储备份数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="494" y="670" width="96" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
