@@ -3088,6 +3088,9 @@
             <mxPoint x="19" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="VX3Xn6VjcT4-Ef1aaKu4-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VX3Xn6VjcT4-Ef1aaKu4-31" target="VX3Xn6VjcT4-Ef1aaKu4-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VX3Xn6VjcT4-Ef1aaKu4-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="350" width="10" height="85" as="geometry" />
         </mxCell>
@@ -3104,6 +3107,23 @@
         </mxCell>
         <mxCell id="VX3Xn6VjcT4-Ef1aaKu4-38" value="2.根据日期字段&lt;div&gt;检索数据&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="414" y="377.5" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VX3Xn6VjcT4-Ef1aaKu4-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VX3Xn6VjcT4-Ef1aaKu4-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="390" y="490" />
+              <mxPoint x="390" y="491" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VX3Xn6VjcT4-Ef1aaKu4-44" value="IMAP数据获取请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VX3Xn6VjcT4-Ef1aaKu4-43">
+          <mxGeometry x="0.2538" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VX3Xn6VjcT4-Ef1aaKu4-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="475" width="10" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
