@@ -2177,7 +2177,7 @@
             <mxPoint x="880" y="395" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RPpJbg7D9pHEGdv4c5-6-44" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;邮件服务器&lt;/font&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_server.svg;" parent="1" vertex="1">
+        <mxCell id="RPpJbg7D9pHEGdv4c5-6-44" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;邮件&amp;amp;&lt;/font&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;云附件服务器&lt;/span&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_server.svg;" parent="1" vertex="1">
           <mxGeometry x="860" y="360" width="57.4" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RPpJbg7D9pHEGdv4c5-6-46" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.979;exitY=0.331;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.058;entryY=0.74;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=11;fontStyle=1;strokeWidth=1;" parent="1" source="RPpJbg7D9pHEGdv4c5-6-6" target="RPpJbg7D9pHEGdv4c5-6-12" edge="1">
